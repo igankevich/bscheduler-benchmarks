@@ -79,14 +79,10 @@ benchmark() {
 	fi
 	# collect logs
 	set -e
-	sed -ne '/time since epoch/p' logs-$nodes-$daemons/*.log
-
 	outdir=$ROOT/output/$hostname/d$daemons/n$nodes/a$attempt
 	mkdir -p $outdir
 	mv -v logs-$nodes-$daemons/*.log $outdir/
-	mv -v /tmp/bsc.log $outdir/
 	cd $ROOT
-	#$ROOT/R/discovery.R $outdir/bsc.log
 }
 
 get_repository

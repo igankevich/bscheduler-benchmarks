@@ -111,6 +111,7 @@ for n in $(seq 1 $total_num_of_daemons); do
 		logdir="logs-$num_nodes-$num_daemons"
 		cat >> $script << EOF
 wait
+sed -i -ne '/time since epoch/p' /tmp/bsc.*.log
 mkdir -p $logdir
 mv -v /tmp/bsc.*.log $logdir/
 EOF
