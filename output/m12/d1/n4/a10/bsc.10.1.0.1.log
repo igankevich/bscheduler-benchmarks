@@ -1,0 +1,8 @@
+ discovery: time since epoch 1506712456539ms
+discoverer: [time since epoch 1506712457572ms] 10.1.0.1/16: all addresses have been probed
+discoverer: [time since epoch 1506712457861ms] 10.1.0.1/16: add subordinate 10.1.0.2:33333
+discoverer: [time since epoch 1506712457890ms] 10.1.0.1/16: add subordinate 10.1.0.3:33333
+discoverer: [time since epoch 1506712457898ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 1
+discoverer: [time since epoch 1506712457900ms] 10.1.0.1/16: set 10.1.0.3:33333 weight to 1
+discoverer: [time since epoch 1506712458019ms] 10.1.0.1/16: add subordinate 10.1.0.4:33333
+discoverer: [time since epoch 1506712458029ms] 10.1.0.1/16: set 10.1.0.4:33333 weight to 1

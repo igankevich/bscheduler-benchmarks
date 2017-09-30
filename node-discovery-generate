@@ -1,0 +1,123 @@
+#!/bin/sh
+
+while [ -n "$1" ]; do
+	case "$1" in
+		--nodes)
+			shift
+			num_nodes=$1
+			shift
+			;;
+		--daemons)
+			shift
+			num_daemons=$1
+			shift
+			;;
+		--device)
+			shift
+			device=$1
+			shift
+			;;
+		--timeout)
+			shift
+			timeout=$1
+			shift
+			;;
+		--)
+			shift
+			cmd=$*
+			while [ -n "$1" ]; do shift; done
+			;;
+		*)
+			echo "Unknown option: $1" >&2
+			exit 1
+			;;
+	esac
+done
+
+if test -z "$num_daemons"
+then
+	num_daemons=100
+fi
+
+if test -z "$num_nodes"
+then
+	num_nodes=10
+fi
+
+if test -z "$timeout"
+then
+	timeout=30
+fi
+
+if test -z "$device"
+then
+	device="enp5s0f0"
+fi
+
+if test -z "$cmd"
+then
+	echo "Please, specify command to execute."
+	exit 2
+fi
+
+prefix=16
+total_num_of_daemons=$(expr $num_daemons \* $num_nodes)
+
+# generate script to delete addresses
+script="delete-old-addresses"
+for n in $(seq 1 $total_num_of_daemons); do
+	x0=$(expr $n / 255)
+	x1=$(expr $n % 255)
+	echo "ip address delete 10.1.$x0.$x1/$prefix dev $device 2>/dev/null"
+	echo "ip address delete 10.1.$x0.$x1/$prefix dev lo 2>/dev/null"
+done >$script
+chmod +x $script
+
+# generate scripts to add addresses for each node
+node=1
+counter=0
+script="add-$node"
+rm -f add-*
+for n in $(seq 1 $total_num_of_daemons); do
+	x0=$(expr $n / 255)
+	x1=$(expr $n % 255)
+	echo "ip address add 10.1.$x0.$x1/$prefix dev $device" >> $script
+	counter=$(expr $counter + 1)
+	if test "$counter" = "$num_daemons"
+	then
+		chmod +x $script
+		counter=0
+		node=$(expr $node + 1)
+		script="add-$node"
+	fi
+done
+
+# generate scripts to run benchmarks for each node
+node=1
+counter=0
+script="benchmark-$node"
+tm="$timeout"
+rm -f benchmark-*
+for n in $(seq 1 $total_num_of_daemons); do
+	x0=$(expr $n / 255)
+	x1=$(expr $n % 255)
+	cpu=$(expr \( $n - 1 \) % 8)
+	ip="10.1.$x0.$x1"
+	echo "sleep 0.1; timeout $tm numactl -C $cpu $cmd >/tmp/bsc.$ip.log 2>&1 &" | sed "s:@ifaddr@:$ip/$prefix:g" >> $script
+	counter=$(expr $counter + 1)
+	tm=$(echo "scale=5; $tm - 0" | bc)
+	if test "$counter" = "$num_daemons"
+	then
+		logdir="logs-$num_nodes-$num_daemons"
+		cat >> $script << EOF
+wait
+mkdir -p $logdir
+mv -v /tmp/bsc.*.log $logdir/
+EOF
+		chmod +x $script
+		counter=0
+		node=$(expr $node + 1)
+		script="benchmark-$node"
+		tm="$timeout"
+	fi
+done
