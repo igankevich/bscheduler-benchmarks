@@ -94,28 +94,18 @@ timeout_1=10
 timeout_8=20
 timeout_16=40
 timeout_32=80
+timeout_64=160
 sleep_1=0.1
 sleep_8=0.8
 sleep_16=1.6
 sleep_32=3.2
+sleep_64=6.4
 fanout=10000
-for attempt in $(seq 3 10)
-do
-	for nodes in $(seq 2 11)
-	do
-		for daemons in 32
-		do
-			eval timeout="\$timeout_$daemons"
-			eval sleep="\$sleep_$daemons"
-			benchmark $nodes $daemons enp5s0f0 $attempt $fanout $timeout $sleep
-		done
-	done
-done
 for attempt in $(seq 1 10)
 do
 	for nodes in $(seq 2 11)
 	do
-		for daemons in 16
+		for daemons in 64
 		do
 			eval timeout="\$timeout_$daemons"
 			eval sleep="\$sleep_$daemons"
