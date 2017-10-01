@@ -100,7 +100,10 @@ lcolors <- sapply(params, function (p) { p$col })
 
 #par(mfrow=c(3,2))
 plot.new()
-plot.window(xlim=range(result$nodes), ylim=range(0, result$t_min, result$t_max))
+plot.window(
+	xlim=range(result$nodes),
+	ylim=range(0, result$t_min, result$t_max, 5)
+)
 for (p in params) {
 	n <- p$n
 	res <- result[result$daemons==n,]
@@ -110,7 +113,7 @@ for (p in params) {
 	lines(x, res$t_min, lty='dashed', col=p$col)
 	lines(x, res$t_max, lty='dashed', col=p$col)
 }
-axis(1, at=c(1:max(res$nodes)))
+axis(1, at=c(1:max(result$nodes)))
 axis(2)
 title(xlab='No. of nodes', ylab='Time, s')
 legend(
