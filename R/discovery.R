@@ -85,7 +85,7 @@ write('Average time:', stdout())
 print(result)
 
 par(mfrow=c(2,2))
-for (n in c(1, 8, 16, 32)) {
+for (n in c(1, 8, 16, 32, 64)) {
 	res <- result[result$daemons==n,]
 	x <- res$nodes*n
 	plot.new()

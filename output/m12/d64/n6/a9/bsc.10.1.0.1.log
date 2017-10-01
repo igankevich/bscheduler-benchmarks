@@ -1,0 +1,1845 @@
+ discovery: time since epoch 1506803157062ms
+discoverer: [time since epoch 1506803158063ms] 10.1.0.1/16: all addresses have been probed
+discoverer: [time since epoch 1506803158176ms] 10.1.0.1/16: add subordinate 10.1.0.2:33333
+discoverer: [time since epoch 1506803158177ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 1
+discoverer: [time since epoch 1506803158288ms] 10.1.0.1/16: add subordinate 10.1.0.3:33333
+discoverer: [time since epoch 1506803158288ms] 10.1.0.1/16: set 10.1.0.3:33333 weight to 1
+discoverer: [time since epoch 1506803158398ms] 10.1.0.1/16: add subordinate 10.1.0.4:33333
+discoverer: [time since epoch 1506803158399ms] 10.1.0.1/16: set 10.1.0.4:33333 weight to 1
+discoverer: [time since epoch 1506803158508ms] 10.1.0.1/16: add subordinate 10.1.0.5:33333
+discoverer: [time since epoch 1506803158509ms] 10.1.0.1/16: set 10.1.0.5:33333 weight to 1
+discoverer: [time since epoch 1506803158616ms] 10.1.0.1/16: add subordinate 10.1.0.6:33333
+discoverer: [time since epoch 1506803158617ms] 10.1.0.1/16: set 10.1.0.6:33333 weight to 1
+discoverer: [time since epoch 1506803158732ms] 10.1.0.1/16: add subordinate 10.1.0.7:33333
+discoverer: [time since epoch 1506803158734ms] 10.1.0.1/16: set 10.1.0.7:33333 weight to 1
+discoverer: [time since epoch 1506803158842ms] 10.1.0.1/16: add subordinate 10.1.0.8:33333
+discoverer: [time since epoch 1506803158843ms] 10.1.0.1/16: set 10.1.0.8:33333 weight to 1
+discoverer: [time since epoch 1506803158958ms] 10.1.0.1/16: add subordinate 10.1.0.9:33333
+discoverer: [time since epoch 1506803158960ms] 10.1.0.1/16: set 10.1.0.9:33333 weight to 1
+discoverer: [time since epoch 1506803159069ms] 10.1.0.1/16: add subordinate 10.1.0.10:33333
+discoverer: [time since epoch 1506803159070ms] 10.1.0.1/16: set 10.1.0.10:33333 weight to 1
+discoverer: [time since epoch 1506803159183ms] 10.1.0.1/16: add subordinate 10.1.0.11:33333
+discoverer: [time since epoch 1506803159185ms] 10.1.0.1/16: set 10.1.0.11:33333 weight to 1
+discoverer: [time since epoch 1506803159292ms] 10.1.0.1/16: add subordinate 10.1.0.12:33333
+discoverer: [time since epoch 1506803159294ms] 10.1.0.1/16: set 10.1.0.12:33333 weight to 1
+discoverer: [time since epoch 1506803159409ms] 10.1.0.1/16: add subordinate 10.1.0.13:33333
+discoverer: [time since epoch 1506803159411ms] 10.1.0.1/16: set 10.1.0.13:33333 weight to 1
+discoverer: [time since epoch 1506803159518ms] 10.1.0.1/16: add subordinate 10.1.0.14:33333
+discoverer: [time since epoch 1506803159521ms] 10.1.0.1/16: set 10.1.0.14:33333 weight to 1
+discoverer: [time since epoch 1506803159634ms] 10.1.0.1/16: add subordinate 10.1.0.15:33333
+discoverer: [time since epoch 1506803159637ms] 10.1.0.1/16: set 10.1.0.15:33333 weight to 1
+discoverer: [time since epoch 1506803159751ms] 10.1.0.1/16: add subordinate 10.1.0.16:33333
+discoverer: [time since epoch 1506803159754ms] 10.1.0.1/16: set 10.1.0.16:33333 weight to 1
+discoverer: [time since epoch 1506803159870ms] 10.1.0.1/16: add subordinate 10.1.0.17:33333
+discoverer: [time since epoch 1506803159873ms] 10.1.0.1/16: set 10.1.0.17:33333 weight to 1
+discoverer: [time since epoch 1506803159992ms] 10.1.0.1/16: add subordinate 10.1.0.18:33333
+discoverer: [time since epoch 1506803160006ms] 10.1.0.1/16: set 10.1.0.18:33333 weight to 1
+discoverer: [time since epoch 1506803160145ms] 10.1.0.1/16: add subordinate 10.1.0.19:33333
+discoverer: [time since epoch 1506803160175ms] 10.1.0.1/16: set 10.1.0.19:33333 weight to 1
+discoverer: [time since epoch 1506803160230ms] 10.1.0.1/16: add subordinate 10.1.0.20:33333
+discoverer: [time since epoch 1506803160233ms] 10.1.0.1/16: set 10.1.0.20:33333 weight to 1
+discoverer: [time since epoch 1506803160354ms] 10.1.0.1/16: add subordinate 10.1.0.21:33333
+discoverer: [time since epoch 1506803160371ms] 10.1.0.1/16: set 10.1.0.21:33333 weight to 1
+discoverer: [time since epoch 1506803160470ms] 10.1.0.1/16: add subordinate 10.1.0.22:33333
+discoverer: [time since epoch 1506803160498ms] 10.1.0.1/16: set 10.1.0.22:33333 weight to 1
+discoverer: [time since epoch 1506803160586ms] 10.1.0.1/16: add subordinate 10.1.0.23:33333
+discoverer: [time since epoch 1506803160615ms] 10.1.0.1/16: set 10.1.0.23:33333 weight to 1
+discoverer: [time since epoch 1506803160695ms] 10.1.0.1/16: add subordinate 10.1.0.24:33333
+discoverer: [time since epoch 1506803160699ms] 10.1.0.1/16: set 10.1.0.24:33333 weight to 1
+discoverer: [time since epoch 1506803160812ms] 10.1.0.1/16: add subordinate 10.1.0.25:33333
+discoverer: [time since epoch 1506803160816ms] 10.1.0.1/16: set 10.1.0.25:33333 weight to 1
+discoverer: [time since epoch 1506803160934ms] 10.1.0.1/16: add subordinate 10.1.0.26:33333
+discoverer: [time since epoch 1506803160951ms] 10.1.0.1/16: set 10.1.0.26:33333 weight to 1
+discoverer: [time since epoch 1506803161039ms] 10.1.0.1/16: add subordinate 10.1.0.27:33333
+discoverer: [time since epoch 1506803161069ms] 10.1.0.1/16: set 10.1.0.27:33333 weight to 1
+discoverer: [time since epoch 1506803161164ms] 10.1.0.1/16: add subordinate 10.1.0.28:33333
+discoverer: [time since epoch 1506803161168ms] 10.1.0.1/16: set 10.1.0.28:33333 weight to 1
+discoverer: [time since epoch 1506803161266ms] 10.1.0.1/16: add subordinate 10.1.0.29:33333
+discoverer: [time since epoch 1506803161288ms] 10.1.0.1/16: set 10.1.0.29:33333 weight to 1
+discoverer: [time since epoch 1506803161380ms] 10.1.0.1/16: add subordinate 10.1.0.30:33333
+discoverer: [time since epoch 1506803161415ms] 10.1.0.1/16: set 10.1.0.30:33333 weight to 1
+discoverer: [time since epoch 1506803161504ms] 10.1.0.1/16: add subordinate 10.1.0.31:33333
+discoverer: [time since epoch 1506803161509ms] 10.1.0.1/16: set 10.1.0.31:33333 weight to 1
+discoverer: [time since epoch 1506803161613ms] 10.1.0.1/16: add subordinate 10.1.0.32:33333
+discoverer: [time since epoch 1506803161627ms] 10.1.0.1/16: set 10.1.0.32:33333 weight to 1
+discoverer: [time since epoch 1506803161727ms] 10.1.0.1/16: add subordinate 10.1.0.33:33333
+discoverer: [time since epoch 1506803161745ms] 10.1.0.1/16: set 10.1.0.33:33333 weight to 1
+discoverer: [time since epoch 1506803161838ms] 10.1.0.1/16: add subordinate 10.1.0.34:33333
+discoverer: [time since epoch 1506803161870ms] 10.1.0.1/16: set 10.1.0.34:33333 weight to 1
+discoverer: [time since epoch 1506803161970ms] 10.1.0.1/16: add subordinate 10.1.0.35:33333
+discoverer: [time since epoch 1506803161975ms] 10.1.0.1/16: set 10.1.0.35:33333 weight to 1
+discoverer: [time since epoch 1506803162070ms] 10.1.0.1/16: add subordinate 10.1.0.36:33333
+discoverer: [time since epoch 1506803162088ms] 10.1.0.1/16: set 10.1.0.36:33333 weight to 1
+discoverer: [time since epoch 1506803162196ms] 10.1.0.1/16: add subordinate 10.1.0.37:33333
+discoverer: [time since epoch 1506803162232ms] 10.1.0.1/16: set 10.1.0.37:33333 weight to 1
+discoverer: [time since epoch 1506803162304ms] 10.1.0.1/16: add subordinate 10.1.0.38:33333
+discoverer: [time since epoch 1506803162322ms] 10.1.0.1/16: set 10.1.0.38:33333 weight to 1
+discoverer: [time since epoch 1506803162424ms] 10.1.0.1/16: add subordinate 10.1.0.39:33333
+discoverer: [time since epoch 1506803162456ms] 10.1.0.1/16: set 10.1.0.39:33333 weight to 1
+discoverer: [time since epoch 1506803162527ms] 10.1.0.1/16: add subordinate 10.1.0.40:33333
+discoverer: [time since epoch 1506803162551ms] 10.1.0.1/16: set 10.1.0.40:33333 weight to 1
+discoverer: [time since epoch 1506803162646ms] 10.1.0.1/16: add subordinate 10.1.0.41:33333
+discoverer: [time since epoch 1506803162662ms] 10.1.0.1/16: set 10.1.0.41:33333 weight to 1
+discoverer: [time since epoch 1506803162746ms] 10.1.0.1/16: add subordinate 10.1.0.42:33333
+discoverer: [time since epoch 1506803162753ms] 10.1.0.1/16: set 10.1.0.42:33333 weight to 1
+discoverer: [time since epoch 1506803162890ms] 10.1.0.1/16: add subordinate 10.1.0.43:33333
+discoverer: [time since epoch 1506803162906ms] 10.1.0.1/16: set 10.1.0.43:33333 weight to 1
+discoverer: [time since epoch 1506803162989ms] 10.1.0.1/16: add subordinate 10.1.0.44:33333
+discoverer: [time since epoch 1506803163009ms] 10.1.0.1/16: set 10.1.0.44:33333 weight to 1
+discoverer: [time since epoch 1506803163089ms] 10.1.0.1/16: add subordinate 10.1.0.45:33333
+discoverer: [time since epoch 1506803163124ms] 10.1.0.1/16: set 10.1.0.45:33333 weight to 1
+discoverer: [time since epoch 1506803163213ms] 10.1.0.1/16: add subordinate 10.1.0.46:33333
+discoverer: [time since epoch 1506803163233ms] 10.1.0.1/16: set 10.1.0.46:33333 weight to 1
+discoverer: [time since epoch 1506803163327ms] 10.1.0.1/16: add subordinate 10.1.0.47:33333
+discoverer: [time since epoch 1506803163360ms] 10.1.0.1/16: set 10.1.0.47:33333 weight to 1
+discoverer: [time since epoch 1506803163437ms] 10.1.0.1/16: add subordinate 10.1.0.48:33333
+discoverer: [time since epoch 1506803163451ms] 10.1.0.1/16: set 10.1.0.48:33333 weight to 1
+discoverer: [time since epoch 1506803163567ms] 10.1.0.1/16: add subordinate 10.1.0.49:33333
+discoverer: [time since epoch 1506803163585ms] 10.1.0.1/16: set 10.1.0.49:33333 weight to 1
+discoverer: [time since epoch 1506803163666ms] 10.1.0.1/16: add subordinate 10.1.0.50:33333
+discoverer: [time since epoch 1506803163674ms] 10.1.0.1/16: set 10.1.0.50:33333 weight to 1
+discoverer: [time since epoch 1506803163776ms] 10.1.0.1/16: add subordinate 10.1.0.51:33333
+discoverer: [time since epoch 1506803163796ms] 10.1.0.1/16: set 10.1.0.51:33333 weight to 1
+discoverer: [time since epoch 1506803163890ms] 10.1.0.1/16: add subordinate 10.1.0.52:33333
+discoverer: [time since epoch 1506803163911ms] 10.1.0.1/16: set 10.1.0.52:33333 weight to 1
+discoverer: [time since epoch 1506803164005ms] 10.1.0.1/16: add subordinate 10.1.0.53:33333
+discoverer: [time since epoch 1506803164047ms] 10.1.0.1/16: set 10.1.0.53:33333 weight to 1
+discoverer: [time since epoch 1506803164119ms] 10.1.0.1/16: add subordinate 10.1.0.54:33333
+discoverer: [time since epoch 1506803164159ms] 10.1.0.1/16: set 10.1.0.54:33333 weight to 1
+discoverer: [time since epoch 1506803164235ms] 10.1.0.1/16: add subordinate 10.1.0.55:33333
+discoverer: [time since epoch 1506803164256ms] 10.1.0.1/16: set 10.1.0.55:33333 weight to 1
+discoverer: [time since epoch 1506803164342ms] 10.1.0.1/16: add subordinate 10.1.0.56:33333
+discoverer: [time since epoch 1506803164375ms] 10.1.0.1/16: set 10.1.0.56:33333 weight to 1
+discoverer: [time since epoch 1506803164463ms] 10.1.0.1/16: add subordinate 10.1.0.57:33333
+discoverer: [time since epoch 1506803164479ms] 10.1.0.1/16: set 10.1.0.57:33333 weight to 1
+discoverer: [time since epoch 1506803164485ms] 10.1.0.1/16: add subordinate 10.1.0.65:33333
+discoverer: [time since epoch 1506803164511ms] 10.1.0.1/16: set 10.1.0.65:33333 weight to 1
+discoverer: [time since epoch 1506803164569ms] 10.1.0.1/16: add subordinate 10.1.0.58:33333
+discoverer: [time since epoch 1506803164607ms] 10.1.0.1/16: set 10.1.0.58:33333 weight to 1
+discoverer: [time since epoch 1506803164607ms] 10.1.0.1/16: add subordinate 10.1.0.66:33333
+discoverer: [time since epoch 1506803164629ms] 10.1.0.1/16: set 10.1.0.66:33333 weight to 1
+discoverer: [time since epoch 1506803164681ms] 10.1.0.1/16: add subordinate 10.1.0.59:33333
+discoverer: [time since epoch 1506803164719ms] 10.1.0.1/16: set 10.1.0.59:33333 weight to 1
+discoverer: [time since epoch 1506803164719ms] 10.1.0.1/16: add subordinate 10.1.0.67:33333
+discoverer: [time since epoch 1506803164749ms] 10.1.0.1/16: set 10.1.0.67:33333 weight to 1
+discoverer: [time since epoch 1506803164809ms] 10.1.0.1/16: add subordinate 10.1.0.68:33333
+discoverer: [time since epoch 1506803164832ms] 10.1.0.1/16: set 10.1.0.68:33333 weight to 1
+discoverer: [time since epoch 1506803164841ms] 10.1.0.1/16: add subordinate 10.1.0.60:33333
+discoverer: [time since epoch 1506803164889ms] 10.1.0.1/16: set 10.1.0.60:33333 weight to 1
+discoverer: [time since epoch 1506803164923ms] 10.1.0.1/16: add subordinate 10.1.0.61:33333
+discoverer: [time since epoch 1506803164943ms] 10.1.0.1/16: set 10.1.0.61:33333 weight to 1
+discoverer: [time since epoch 1506803164943ms] 10.1.0.1/16: add subordinate 10.1.0.69:33333
+discoverer: [time since epoch 1506803164964ms] 10.1.0.1/16: set 10.1.0.69:33333 weight to 1
+discoverer: [time since epoch 1506803165035ms] 10.1.0.1/16: add subordinate 10.1.0.62:33333
+discoverer: [time since epoch 1506803165069ms] 10.1.0.1/16: set 10.1.0.62:33333 weight to 1
+discoverer: [time since epoch 1506803165069ms] 10.1.0.1/16: add subordinate 10.1.0.70:33333
+discoverer: [time since epoch 1506803165088ms] 10.1.0.1/16: set 10.1.0.70:33333 weight to 1
+discoverer: [time since epoch 1506803165152ms] 10.1.0.1/16: add subordinate 10.1.0.71:33333
+discoverer: [time since epoch 1506803165180ms] 10.1.0.1/16: set 10.1.0.71:33333 weight to 1
+discoverer: [time since epoch 1506803165187ms] 10.1.0.1/16: add subordinate 10.1.0.63:33333
+discoverer: [time since epoch 1506803165254ms] 10.1.0.1/16: set 10.1.0.63:33333 weight to 1
+discoverer: [time since epoch 1506803165258ms] 10.1.0.1/16: add subordinate 10.1.0.72:33333
+discoverer: [time since epoch 1506803165282ms] 10.1.0.1/16: set 10.1.0.72:33333 weight to 1
+discoverer: [time since epoch 1506803165331ms] 10.1.0.1/16: add subordinate 10.1.0.64:33333
+discoverer: [time since epoch 1506803165378ms] 10.1.0.1/16: set 10.1.0.64:33333 weight to 1
+discoverer: [time since epoch 1506803165387ms] 10.1.0.1/16: add subordinate 10.1.0.73:33333
+discoverer: [time since epoch 1506803165411ms] 10.1.0.1/16: set 10.1.0.73:33333 weight to 1
+discoverer: [time since epoch 1506803165499ms] 10.1.0.1/16: add subordinate 10.1.0.74:33333
+discoverer: [time since epoch 1506803165521ms] 10.1.0.1/16: set 10.1.0.74:33333 weight to 1
+discoverer: [time since epoch 1506803165608ms] 10.1.0.1/16: add subordinate 10.1.0.75:33333
+discoverer: [time since epoch 1506803165655ms] 10.1.0.1/16: set 10.1.0.75:33333 weight to 1
+discoverer: [time since epoch 1506803165723ms] 10.1.0.1/16: add subordinate 10.1.0.76:33333
+discoverer: [time since epoch 1506803165768ms] 10.1.0.1/16: set 10.1.0.76:33333 weight to 1
+discoverer: [time since epoch 1506803165841ms] 10.1.0.1/16: add subordinate 10.1.0.77:33333
+discoverer: [time since epoch 1506803165882ms] 10.1.0.1/16: set 10.1.0.77:33333 weight to 1
+discoverer: [time since epoch 1506803165948ms] 10.1.0.1/16: add subordinate 10.1.0.78:33333
+discoverer: [time since epoch 1506803165998ms] 10.1.0.1/16: set 10.1.0.78:33333 weight to 1
+discoverer: [time since epoch 1506803166067ms] 10.1.0.1/16: add subordinate 10.1.0.79:33333
+discoverer: [time since epoch 1506803166102ms] 10.1.0.1/16: set 10.1.0.79:33333 weight to 1
+discoverer: [time since epoch 1506803166184ms] 10.1.0.1/16: add subordinate 10.1.0.80:33333
+discoverer: [time since epoch 1506803166209ms] 10.1.0.1/16: set 10.1.0.80:33333 weight to 1
+discoverer: [time since epoch 1506803166304ms] 10.1.0.1/16: add subordinate 10.1.0.81:33333
+discoverer: [time since epoch 1506803166326ms] 10.1.0.1/16: set 10.1.0.81:33333 weight to 1
+discoverer: [time since epoch 1506803166421ms] 10.1.0.1/16: add subordinate 10.1.0.82:33333
+discoverer: [time since epoch 1506803166452ms] 10.1.0.1/16: set 10.1.0.82:33333 weight to 1
+discoverer: [time since epoch 1506803166537ms] 10.1.0.1/16: add subordinate 10.1.0.83:33333
+discoverer: [time since epoch 1506803166583ms] 10.1.0.1/16: set 10.1.0.83:33333 weight to 1
+discoverer: [time since epoch 1506803166642ms] 10.1.0.1/16: add subordinate 10.1.0.84:33333
+discoverer: [time since epoch 1506803166679ms] 10.1.0.1/16: set 10.1.0.84:33333 weight to 1
+discoverer: [time since epoch 1506803166765ms] 10.1.0.1/16: add subordinate 10.1.0.85:33333
+discoverer: [time since epoch 1506803166792ms] 10.1.0.1/16: set 10.1.0.85:33333 weight to 1
+discoverer: [time since epoch 1506803166874ms] 10.1.0.1/16: add subordinate 10.1.0.86:33333
+discoverer: [time since epoch 1506803166905ms] 10.1.0.1/16: set 10.1.0.86:33333 weight to 1
+discoverer: [time since epoch 1506803166991ms] 10.1.0.1/16: add subordinate 10.1.0.87:33333
+discoverer: [time since epoch 1506803167034ms] 10.1.0.1/16: set 10.1.0.87:33333 weight to 1
+discoverer: [time since epoch 1506803167106ms] 10.1.0.1/16: add subordinate 10.1.0.88:33333
+discoverer: [time since epoch 1506803167132ms] 10.1.0.1/16: set 10.1.0.88:33333 weight to 1
+discoverer: [time since epoch 1506803167242ms] 10.1.0.1/16: add subordinate 10.1.0.89:33333
+discoverer: [time since epoch 1506803167268ms] 10.1.0.1/16: set 10.1.0.89:33333 weight to 1
+discoverer: [time since epoch 1506803167342ms] 10.1.0.1/16: add subordinate 10.1.0.90:33333
+discoverer: [time since epoch 1506803167373ms] 10.1.0.1/16: set 10.1.0.90:33333 weight to 1
+discoverer: [time since epoch 1506803167464ms] 10.1.0.1/16: add subordinate 10.1.0.91:33333
+discoverer: [time since epoch 1506803167503ms] 10.1.0.1/16: set 10.1.0.91:33333 weight to 1
+discoverer: [time since epoch 1506803167583ms] 10.1.0.1/16: add subordinate 10.1.0.92:33333
+discoverer: [time since epoch 1506803167609ms] 10.1.0.1/16: set 10.1.0.92:33333 weight to 1
+discoverer: [time since epoch 1506803167700ms] 10.1.0.1/16: add subordinate 10.1.0.93:33333
+discoverer: [time since epoch 1506803167726ms] 10.1.0.1/16: set 10.1.0.93:33333 weight to 1
+discoverer: [time since epoch 1506803167812ms] 10.1.0.1/16: add subordinate 10.1.0.94:33333
+discoverer: [time since epoch 1506803167846ms] 10.1.0.1/16: set 10.1.0.94:33333 weight to 1
+discoverer: [time since epoch 1506803167923ms] 10.1.0.1/16: add subordinate 10.1.0.95:33333
+discoverer: [time since epoch 1506803167968ms] 10.1.0.1/16: set 10.1.0.95:33333 weight to 1
+discoverer: [time since epoch 1506803168039ms] 10.1.0.1/16: add subordinate 10.1.0.96:33333
+discoverer: [time since epoch 1506803168067ms] 10.1.0.1/16: set 10.1.0.96:33333 weight to 1
+discoverer: [time since epoch 1506803168161ms] 10.1.0.1/16: add subordinate 10.1.0.97:33333
+discoverer: [time since epoch 1506803168188ms] 10.1.0.1/16: set 10.1.0.97:33333 weight to 1
+discoverer: [time since epoch 1506803168270ms] 10.1.0.1/16: add subordinate 10.1.0.98:33333
+discoverer: [time since epoch 1506803168308ms] 10.1.0.1/16: set 10.1.0.98:33333 weight to 1
+discoverer: [time since epoch 1506803168388ms] 10.1.0.1/16: add subordinate 10.1.0.99:33333
+discoverer: [time since epoch 1506803168428ms] 10.1.0.1/16: set 10.1.0.99:33333 weight to 1
+discoverer: [time since epoch 1506803168508ms] 10.1.0.1/16: add subordinate 10.1.0.100:33333
+discoverer: [time since epoch 1506803168536ms] 10.1.0.1/16: set 10.1.0.100:33333 weight to 1
+discoverer: [time since epoch 1506803168637ms] 10.1.0.1/16: add subordinate 10.1.0.101:33333
+discoverer: [time since epoch 1506803168665ms] 10.1.0.1/16: set 10.1.0.101:33333 weight to 1
+discoverer: [time since epoch 1506803168793ms] 10.1.0.1/16: add subordinate 10.1.0.102:33333
+discoverer: [time since epoch 1506803168830ms] 10.1.0.1/16: set 10.1.0.102:33333 weight to 1
+discoverer: [time since epoch 1506803168853ms] 10.1.0.1/16: add subordinate 10.1.0.103:33333
+discoverer: [time since epoch 1506803168902ms] 10.1.0.1/16: set 10.1.0.103:33333 weight to 1
+discoverer: [time since epoch 1506803168970ms] 10.1.0.1/16: add subordinate 10.1.0.104:33333
+discoverer: [time since epoch 1506803169008ms] 10.1.0.1/16: set 10.1.0.104:33333 weight to 1
+discoverer: [time since epoch 1506803169096ms] 10.1.0.1/16: add subordinate 10.1.0.105:33333
+discoverer: [time since epoch 1506803169136ms] 10.1.0.1/16: set 10.1.0.105:33333 weight to 1
+discoverer: [time since epoch 1506803169203ms] 10.1.0.1/16: add subordinate 10.1.0.106:33333
+discoverer: [time since epoch 1506803169231ms] 10.1.0.1/16: set 10.1.0.106:33333 weight to 1
+discoverer: [time since epoch 1506803169320ms] 10.1.0.1/16: add subordinate 10.1.0.107:33333
+discoverer: [time since epoch 1506803169355ms] 10.1.0.1/16: set 10.1.0.107:33333 weight to 1
+discoverer: [time since epoch 1506803169435ms] 10.1.0.1/16: add subordinate 10.1.0.108:33333
+discoverer: [time since epoch 1506803169481ms] 10.1.0.1/16: set 10.1.0.108:33333 weight to 1
+discoverer: [time since epoch 1506803169564ms] 10.1.0.1/16: add subordinate 10.1.0.109:33333
+discoverer: [time since epoch 1506803169595ms] 10.1.0.1/16: set 10.1.0.109:33333 weight to 1
+discoverer: [time since epoch 1506803169683ms] 10.1.0.1/16: add subordinate 10.1.0.110:33333
+discoverer: [time since epoch 1506803169712ms] 10.1.0.1/16: set 10.1.0.110:33333 weight to 1
+discoverer: [time since epoch 1506803169795ms] 10.1.0.1/16: add subordinate 10.1.0.111:33333
+discoverer: [time since epoch 1506803169826ms] 10.1.0.1/16: set 10.1.0.111:33333 weight to 1
+discoverer: [time since epoch 1506803169905ms] 10.1.0.1/16: add subordinate 10.1.0.112:33333
+discoverer: [time since epoch 1506803169934ms] 10.1.0.1/16: set 10.1.0.112:33333 weight to 1
+discoverer: [time since epoch 1506803170028ms] 10.1.0.1/16: add subordinate 10.1.0.113:33333
+discoverer: [time since epoch 1506803170057ms] 10.1.0.1/16: set 10.1.0.113:33333 weight to 1
+discoverer: [time since epoch 1506803170133ms] 10.1.0.1/16: add subordinate 10.1.0.114:33333
+discoverer: [time since epoch 1506803170162ms] 10.1.0.1/16: set 10.1.0.114:33333 weight to 1
+discoverer: [time since epoch 1506803170249ms] 10.1.0.1/16: add subordinate 10.1.0.115:33333
+discoverer: [time since epoch 1506803170279ms] 10.1.0.1/16: set 10.1.0.115:33333 weight to 1
+discoverer: [time since epoch 1506803170365ms] 10.1.0.1/16: add subordinate 10.1.0.116:33333
+discoverer: [time since epoch 1506803170405ms] 10.1.0.1/16: set 10.1.0.116:33333 weight to 1
+discoverer: [time since epoch 1506803170521ms] 10.1.0.1/16: add subordinate 10.1.0.117:33333
+discoverer: [time since epoch 1506803170563ms] 10.1.0.1/16: set 10.1.0.117:33333 weight to 1
+discoverer: [time since epoch 1506803170639ms] 10.1.0.1/16: add subordinate 10.1.0.118:33333
+discoverer: [time since epoch 1506803170670ms] 10.1.0.1/16: set 10.1.0.118:33333 weight to 1
+discoverer: [time since epoch 1506803170744ms] 10.1.0.1/16: add subordinate 10.1.0.119:33333
+discoverer: [time since epoch 1506803170785ms] 10.1.0.1/16: set 10.1.0.119:33333 weight to 1
+discoverer: [time since epoch 1506803170842ms] 10.1.0.1/16: add subordinate 10.1.0.120:33333
+discoverer: [time since epoch 1506803170888ms] 10.1.0.1/16: set 10.1.0.120:33333 weight to 1
+discoverer: [time since epoch 1506803170888ms] 10.1.0.1/16: add subordinate 10.1.0.129:33333
+discoverer: [time since epoch 1506803170928ms] 10.1.0.1/16: set 10.1.0.129:33333 weight to 1
+discoverer: [time since epoch 1506803170976ms] 10.1.0.1/16: add subordinate 10.1.0.121:33333
+discoverer: [time since epoch 1506803171020ms] 10.1.0.1/16: set 10.1.0.121:33333 weight to 1
+discoverer: [time since epoch 1506803171020ms] 10.1.0.1/16: add subordinate 10.1.0.130:33333
+discoverer: [time since epoch 1506803171061ms] 10.1.0.1/16: set 10.1.0.130:33333 weight to 1
+discoverer: [time since epoch 1506803171083ms] 10.1.0.1/16: add subordinate 10.1.0.122:33333
+discoverer: [time since epoch 1506803171123ms] 10.1.0.1/16: set 10.1.0.122:33333 weight to 1
+discoverer: [time since epoch 1506803171123ms] 10.1.0.1/16: add subordinate 10.1.0.131:33333
+discoverer: [time since epoch 1506803171166ms] 10.1.0.1/16: set 10.1.0.131:33333 weight to 1
+discoverer: [time since epoch 1506803171207ms] 10.1.0.1/16: add subordinate 10.1.0.132:33333
+discoverer: [time since epoch 1506803171237ms] 10.1.0.1/16: set 10.1.0.132:33333 weight to 1
+discoverer: [time since epoch 1506803171276ms] 10.1.0.1/16: add subordinate 10.1.0.123:33333
+discoverer: [time since epoch 1506803171329ms] 10.1.0.1/16: set 10.1.0.123:33333 weight to 1
+discoverer: [time since epoch 1506803171332ms] 10.1.0.1/16: add subordinate 10.1.0.133:33333
+discoverer: [time since epoch 1506803171370ms] 10.1.0.1/16: set 10.1.0.133:33333 weight to 1
+discoverer: [time since epoch 1506803171370ms] 10.1.0.1/16: add subordinate 10.1.0.124:33333
+discoverer: [time since epoch 1506803171414ms] 10.1.0.1/16: set 10.1.0.124:33333 weight to 1
+discoverer: [time since epoch 1506803171433ms] 10.1.0.1/16: add subordinate 10.1.0.134:33333
+discoverer: [time since epoch 1506803171465ms] 10.1.0.1/16: set 10.1.0.134:33333 weight to 1
+discoverer: [time since epoch 1506803171465ms] 10.1.0.1/16: add subordinate 10.1.0.125:33333
+discoverer: [time since epoch 1506803171496ms] 10.1.0.1/16: set 10.1.0.125:33333 weight to 1
+discoverer: [time since epoch 1506803171541ms] 10.1.0.1/16: add subordinate 10.1.0.135:33333
+discoverer: [time since epoch 1506803171575ms] 10.1.0.1/16: set 10.1.0.135:33333 weight to 1
+discoverer: [time since epoch 1506803171575ms] 10.1.0.1/16: add subordinate 10.1.0.126:33333
+discoverer: [time since epoch 1506803171607ms] 10.1.0.1/16: set 10.1.0.126:33333 weight to 1
+discoverer: [time since epoch 1506803171645ms] 10.1.0.1/16: add subordinate 10.1.0.136:33333
+discoverer: [time since epoch 1506803171681ms] 10.1.0.1/16: set 10.1.0.136:33333 weight to 1
+discoverer: [time since epoch 1506803171742ms] 10.1.0.1/16: add subordinate 10.1.0.127:33333
+discoverer: [time since epoch 1506803171785ms] 10.1.0.1/16: add subordinate 10.1.0.137:33333
+discoverer: [time since epoch 1506803171818ms] 10.1.0.1/16: set 10.1.0.127:33333 weight to 1
+discoverer: [time since epoch 1506803171818ms] 10.1.0.1/16: add subordinate 10.1.0.128:33333
+discoverer: [time since epoch 1506803171855ms] 10.1.0.1/16: set 10.1.0.137:33333 weight to 1
+discoverer: [time since epoch 1506803171855ms] 10.1.0.1/16: set 10.1.0.128:33333 weight to 1
+discoverer: [time since epoch 1506803171866ms] 10.1.0.1/16: add subordinate 10.1.0.138:33333
+discoverer: [time since epoch 1506803171919ms] 10.1.0.1/16: set 10.1.0.138:33333 weight to 1
+discoverer: [time since epoch 1506803171984ms] 10.1.0.1/16: add subordinate 10.1.0.139:33333
+discoverer: [time since epoch 1506803172034ms] 10.1.0.1/16: set 10.1.0.139:33333 weight to 1
+discoverer: [time since epoch 1506803172084ms] 10.1.0.1/16: add subordinate 10.1.0.140:33333
+discoverer: [time since epoch 1506803172117ms] 10.1.0.1/16: set 10.1.0.140:33333 weight to 1
+discoverer: [time since epoch 1506803172196ms] 10.1.0.1/16: add subordinate 10.1.0.141:33333
+discoverer: [time since epoch 1506803172228ms] 10.1.0.1/16: set 10.1.0.141:33333 weight to 1
+discoverer: [time since epoch 1506803172304ms] 10.1.0.1/16: add subordinate 10.1.0.142:33333
+discoverer: [time since epoch 1506803172349ms] 10.1.0.1/16: set 10.1.0.142:33333 weight to 1
+discoverer: [time since epoch 1506803172422ms] 10.1.0.1/16: add subordinate 10.1.0.143:33333
+discoverer: [time since epoch 1506803172472ms] 10.1.0.1/16: set 10.1.0.143:33333 weight to 1
+discoverer: [time since epoch 1506803172528ms] 10.1.0.1/16: add subordinate 10.1.0.144:33333
+discoverer: [time since epoch 1506803172565ms] 10.1.0.1/16: set 10.1.0.144:33333 weight to 1
+discoverer: [time since epoch 1506803172646ms] 10.1.0.1/16: add subordinate 10.1.0.145:33333
+discoverer: [time since epoch 1506803172698ms] 10.1.0.1/16: set 10.1.0.145:33333 weight to 1
+discoverer: [time since epoch 1506803172757ms] 10.1.0.1/16: add subordinate 10.1.0.146:33333
+discoverer: [time since epoch 1506803172805ms] 10.1.0.1/16: set 10.1.0.146:33333 weight to 1
+discoverer: [time since epoch 1506803172872ms] 10.1.0.1/16: add subordinate 10.1.0.147:33333
+discoverer: [time since epoch 1506803172906ms] 10.1.0.1/16: set 10.1.0.147:33333 weight to 1
+discoverer: [time since epoch 1506803172966ms] 10.1.0.1/16: add subordinate 10.1.0.148:33333
+discoverer: [time since epoch 1506803173006ms] 10.1.0.1/16: set 10.1.0.148:33333 weight to 1
+discoverer: [time since epoch 1506803173072ms] 10.1.0.1/16: add subordinate 10.1.0.149:33333
+discoverer: [time since epoch 1506803173132ms] 10.1.0.1/16: set 10.1.0.149:33333 weight to 1
+discoverer: [time since epoch 1506803173185ms] 10.1.0.1/16: add subordinate 10.1.0.150:33333
+discoverer: [time since epoch 1506803173231ms] 10.1.0.1/16: set 10.1.0.150:33333 weight to 1
+discoverer: [time since epoch 1506803173298ms] 10.1.0.1/16: add subordinate 10.1.0.151:33333
+discoverer: [time since epoch 1506803173339ms] 10.1.0.1/16: set 10.1.0.151:33333 weight to 1
+discoverer: [time since epoch 1506803173403ms] 10.1.0.1/16: add subordinate 10.1.0.152:33333
+discoverer: [time since epoch 1506803173457ms] 10.1.0.1/16: set 10.1.0.152:33333 weight to 1
+discoverer: [time since epoch 1506803173516ms] 10.1.0.1/16: add subordinate 10.1.0.153:33333
+discoverer: [time since epoch 1506803173578ms] 10.1.0.1/16: set 10.1.0.153:33333 weight to 1
+discoverer: [time since epoch 1506803173628ms] 10.1.0.1/16: add subordinate 10.1.0.154:33333
+discoverer: [time since epoch 1506803173674ms] 10.1.0.1/16: set 10.1.0.154:33333 weight to 1
+discoverer: [time since epoch 1506803173753ms] 10.1.0.1/16: add subordinate 10.1.0.155:33333
+discoverer: [time since epoch 1506803173797ms] 10.1.0.1/16: set 10.1.0.155:33333 weight to 1
+discoverer: [time since epoch 1506803173844ms] 10.1.0.1/16: add subordinate 10.1.0.156:33333
+discoverer: [time since epoch 1506803173893ms] 10.1.0.1/16: set 10.1.0.156:33333 weight to 1
+discoverer: [time since epoch 1506803173951ms] 10.1.0.1/16: add subordinate 10.1.0.157:33333
+discoverer: [time since epoch 1506803173985ms] 10.1.0.1/16: set 10.1.0.157:33333 weight to 1
+discoverer: [time since epoch 1506803174062ms] 10.1.0.1/16: add subordinate 10.1.0.158:33333
+discoverer: [time since epoch 1506803174098ms] 10.1.0.1/16: set 10.1.0.158:33333 weight to 1
+discoverer: [time since epoch 1506803174191ms] 10.1.0.1/16: add subordinate 10.1.0.159:33333
+discoverer: [time since epoch 1506803174245ms] 10.1.0.1/16: set 10.1.0.159:33333 weight to 1
+discoverer: [time since epoch 1506803174275ms] 10.1.0.1/16: add subordinate 10.1.0.160:33333
+discoverer: [time since epoch 1506803174314ms] 10.1.0.1/16: set 10.1.0.160:33333 weight to 1
+discoverer: [time since epoch 1506803174386ms] 10.1.0.1/16: add subordinate 10.1.0.161:33333
+discoverer: [time since epoch 1506803174421ms] 10.1.0.1/16: set 10.1.0.161:33333 weight to 1
+discoverer: [time since epoch 1506803174495ms] 10.1.0.1/16: add subordinate 10.1.0.162:33333
+discoverer: [time since epoch 1506803174530ms] 10.1.0.1/16: set 10.1.0.162:33333 weight to 1
+discoverer: [time since epoch 1506803174622ms] 10.1.0.1/16: add subordinate 10.1.0.163:33333
+discoverer: [time since epoch 1506803174663ms] 10.1.0.1/16: set 10.1.0.163:33333 weight to 1
+discoverer: [time since epoch 1506803174714ms] 10.1.0.1/16: add subordinate 10.1.0.164:33333
+discoverer: [time since epoch 1506803174763ms] 10.1.0.1/16: set 10.1.0.164:33333 weight to 1
+discoverer: [time since epoch 1506803174827ms] 10.1.0.1/16: add subordinate 10.1.0.165:33333
+discoverer: [time since epoch 1506803174862ms] 10.1.0.1/16: set 10.1.0.165:33333 weight to 1
+discoverer: [time since epoch 1506803174932ms] 10.1.0.1/16: add subordinate 10.1.0.166:33333
+discoverer: [time since epoch 1506803174969ms] 10.1.0.1/16: set 10.1.0.166:33333 weight to 1
+discoverer: [time since epoch 1506803175049ms] 10.1.0.1/16: add subordinate 10.1.0.167:33333
+discoverer: [time since epoch 1506803175093ms] 10.1.0.1/16: set 10.1.0.167:33333 weight to 1
+discoverer: [time since epoch 1506803175154ms] 10.1.0.1/16: add subordinate 10.1.0.168:33333
+discoverer: [time since epoch 1506803175209ms] 10.1.0.1/16: set 10.1.0.168:33333 weight to 1
+discoverer: [time since epoch 1506803175266ms] 10.1.0.1/16: add subordinate 10.1.0.169:33333
+discoverer: [time since epoch 1506803175320ms] 10.1.0.1/16: set 10.1.0.169:33333 weight to 1
+discoverer: [time since epoch 1506803175378ms] 10.1.0.1/16: add subordinate 10.1.0.170:33333
+discoverer: [time since epoch 1506803175435ms] 10.1.0.1/16: set 10.1.0.170:33333 weight to 1
+discoverer: [time since epoch 1506803175489ms] 10.1.0.1/16: add subordinate 10.1.0.171:33333
+discoverer: [time since epoch 1506803175548ms] 10.1.0.1/16: set 10.1.0.171:33333 weight to 1
+discoverer: [time since epoch 1506803175595ms] 10.1.0.1/16: add subordinate 10.1.0.172:33333
+discoverer: [time since epoch 1506803175644ms] 10.1.0.1/16: set 10.1.0.172:33333 weight to 1
+discoverer: [time since epoch 1506803175706ms] 10.1.0.1/16: add subordinate 10.1.0.173:33333
+discoverer: [time since epoch 1506803175754ms] 10.1.0.1/16: set 10.1.0.173:33333 weight to 1
+discoverer: [time since epoch 1506803175833ms] 10.1.0.1/16: add subordinate 10.1.0.174:33333
+discoverer: [time since epoch 1506803175888ms] 10.1.0.1/16: set 10.1.0.174:33333 weight to 1
+discoverer: [time since epoch 1506803175950ms] 10.1.0.1/16: add subordinate 10.1.0.175:33333
+discoverer: [time since epoch 1506803175999ms] 10.1.0.1/16: set 10.1.0.175:33333 weight to 1
+discoverer: [time since epoch 1506803176061ms] 10.1.0.1/16: add subordinate 10.1.0.176:33333
+discoverer: [time since epoch 1506803176109ms] 10.1.0.1/16: set 10.1.0.176:33333 weight to 1
+discoverer: [time since epoch 1506803176173ms] 10.1.0.1/16: add subordinate 10.1.0.177:33333
+discoverer: [time since epoch 1506803176228ms] 10.1.0.1/16: set 10.1.0.177:33333 weight to 1
+discoverer: [time since epoch 1506803176288ms] 10.1.0.1/16: add subordinate 10.1.0.178:33333
+discoverer: [time since epoch 1506803176325ms] 10.1.0.1/16: set 10.1.0.178:33333 weight to 1
+discoverer: [time since epoch 1506803176407ms] 10.1.0.1/16: add subordinate 10.1.0.179:33333
+discoverer: [time since epoch 1506803176451ms] 10.1.0.1/16: set 10.1.0.179:33333 weight to 1
+discoverer: [time since epoch 1506803176515ms] 10.1.0.1/16: add subordinate 10.1.0.180:33333
+discoverer: [time since epoch 1506803176575ms] 10.1.0.1/16: set 10.1.0.180:33333 weight to 1
+discoverer: [time since epoch 1506803176623ms] 10.1.0.1/16: add subordinate 10.1.0.181:33333
+discoverer: [time since epoch 1506803176684ms] 10.1.0.1/16: set 10.1.0.181:33333 weight to 1
+discoverer: [time since epoch 1506803176736ms] 10.1.0.1/16: add subordinate 10.1.0.182:33333
+discoverer: [time since epoch 1506803176792ms] 10.1.0.1/16: set 10.1.0.182:33333 weight to 1
+discoverer: [time since epoch 1506803176871ms] 10.1.0.1/16: add subordinate 10.1.0.183:33333
+discoverer: [time since epoch 1506803176916ms] 10.1.0.1/16: set 10.1.0.183:33333 weight to 1
+discoverer: [time since epoch 1506803176966ms] 10.1.0.1/16: add subordinate 10.1.0.184:33333
+discoverer: [time since epoch 1506803177004ms] 10.1.0.1/16: set 10.1.0.184:33333 weight to 1
+discoverer: [time since epoch 1506803177134ms] 10.1.0.1/16: add subordinate 10.1.0.185:33333
+discoverer: [time since epoch 1506803177200ms] 10.1.0.1/16: set 10.1.0.185:33333 weight to 1
+discoverer: [time since epoch 1506803177218ms] 10.1.0.1/16: add subordinate 10.1.0.186:33333
+discoverer: [time since epoch 1506803177281ms] 10.1.0.1/16: set 10.1.0.186:33333 weight to 1
+discoverer: [time since epoch 1506803177307ms] 10.1.0.1/16: add subordinate 10.1.0.193:33333
+discoverer: [time since epoch 1506803177347ms] 10.1.0.1/16: set 10.1.0.193:33333 weight to 1
+discoverer: [time since epoch 1506803177347ms] 10.1.0.1/16: add subordinate 10.1.0.187:33333
+discoverer: [time since epoch 1506803177415ms] 10.1.0.1/16: set 10.1.0.187:33333 weight to 1
+discoverer: [time since epoch 1506803177417ms] 10.1.0.1/16: add subordinate 10.1.0.194:33333
+discoverer: [time since epoch 1506803177469ms] 10.1.0.1/16: set 10.1.0.194:33333 weight to 1
+discoverer: [time since epoch 1506803177469ms] 10.1.0.1/16: add subordinate 10.1.0.188:33333
+discoverer: [time since epoch 1506803177521ms] 10.1.0.1/16: set 10.1.0.188:33333 weight to 1
+discoverer: [time since epoch 1506803177538ms] 10.1.0.1/16: add subordinate 10.1.0.195:33333
+discoverer: [time since epoch 1506803177576ms] 10.1.0.1/16: set 10.1.0.195:33333 weight to 1
+discoverer: [time since epoch 1506803177576ms] 10.1.0.1/16: add subordinate 10.1.0.189:33333
+discoverer: [time since epoch 1506803177672ms] 10.1.0.1/16: set 10.1.0.189:33333 weight to 1
+discoverer: [time since epoch 1506803177672ms] 10.1.0.1/16: add subordinate 10.1.0.196:33333
+discoverer: [time since epoch 1506803177723ms] 10.1.0.1/16: add subordinate 10.1.0.190:33333
+discoverer: [time since epoch 1506803177723ms] 10.1.0.1/16: set 10.1.0.196:33333 weight to 1
+discoverer: [time since epoch 1506803177785ms] 10.1.0.1/16: set 10.1.0.190:33333 weight to 1
+discoverer: [time since epoch 1506803177785ms] 10.1.0.1/16: add subordinate 10.1.0.197:33333
+discoverer: [time since epoch 1506803177837ms] 10.1.0.1/16: set 10.1.0.197:33333 weight to 1
+discoverer: [time since epoch 1506803177837ms] 10.1.0.1/16: add subordinate 10.1.0.191:33333
+discoverer: [time since epoch 1506803177890ms] 10.1.0.1/16: set 10.1.0.191:33333 weight to 1
+discoverer: [time since epoch 1506803177894ms] 10.1.0.1/16: add subordinate 10.1.0.198:33333
+discoverer: [time since epoch 1506803177940ms] 10.1.0.1/16: add subordinate 10.1.0.192:33333
+discoverer: [time since epoch 1506803177988ms] 10.1.0.1/16: set 10.1.0.198:33333 weight to 1
+discoverer: [time since epoch 1506803177988ms] 10.1.0.1/16: set 10.1.0.192:33333 weight to 1
+discoverer: [time since epoch 1506803178011ms] 10.1.0.1/16: add subordinate 10.1.0.199:33333
+discoverer: [time since epoch 1506803178051ms] 10.1.0.1/16: set 10.1.0.199:33333 weight to 1
+discoverer: [time since epoch 1506803178143ms] 10.1.0.1/16: add subordinate 10.1.0.200:33333
+discoverer: [time since epoch 1506803178183ms] 10.1.0.1/16: set 10.1.0.200:33333 weight to 1
+discoverer: [time since epoch 1506803178278ms] 10.1.0.1/16: add subordinate 10.1.0.201:33333
+discoverer: [time since epoch 1506803178323ms] 10.1.0.1/16: set 10.1.0.201:33333 weight to 1
+discoverer: [time since epoch 1506803178379ms] 10.1.0.1/16: add subordinate 10.1.0.202:33333
+discoverer: [time since epoch 1506803178443ms] 10.1.0.1/16: set 10.1.0.202:33333 weight to 1
+discoverer: [time since epoch 1506803178493ms] 10.1.0.1/16: add subordinate 10.1.0.203:33333
+discoverer: [time since epoch 1506803178558ms] 10.1.0.1/16: set 10.1.0.203:33333 weight to 1
+discoverer: [time since epoch 1506803178614ms] 10.1.0.1/16: add subordinate 10.1.0.204:33333
+discoverer: [time since epoch 1506803178669ms] 10.1.0.1/16: set 10.1.0.204:33333 weight to 1
+discoverer: [time since epoch 1506803178742ms] 10.1.0.1/16: add subordinate 10.1.0.205:33333
+discoverer: [time since epoch 1506803178783ms] 10.1.0.1/16: set 10.1.0.205:33333 weight to 1
+discoverer: [time since epoch 1506803178855ms] 10.1.0.1/16: add subordinate 10.1.0.206:33333
+discoverer: [time since epoch 1506803178901ms] 10.1.0.1/16: set 10.1.0.206:33333 weight to 1
+discoverer: [time since epoch 1506803178968ms] 10.1.0.1/16: add subordinate 10.1.0.207:33333
+discoverer: [time since epoch 1506803179035ms] 10.1.0.1/16: set 10.1.0.207:33333 weight to 1
+discoverer: [time since epoch 1506803179087ms] 10.1.0.1/16: add subordinate 10.1.0.208:33333
+discoverer: [time since epoch 1506803179146ms] 10.1.0.1/16: set 10.1.0.208:33333 weight to 1
+discoverer: [time since epoch 1506803179209ms] 10.1.0.1/16: add subordinate 10.1.0.209:33333
+discoverer: [time since epoch 1506803179259ms] 10.1.0.1/16: set 10.1.0.209:33333 weight to 1
+discoverer: [time since epoch 1506803179328ms] 10.1.0.1/16: add subordinate 10.1.0.210:33333
+discoverer: [time since epoch 1506803179382ms] 10.1.0.1/16: set 10.1.0.210:33333 weight to 1
+discoverer: [time since epoch 1506803179446ms] 10.1.0.1/16: add subordinate 10.1.0.211:33333
+discoverer: [time since epoch 1506803179488ms] 10.1.0.1/16: set 10.1.0.211:33333 weight to 1
+discoverer: [time since epoch 1506803179560ms] 10.1.0.1/16: add subordinate 10.1.0.212:33333
+discoverer: [time since epoch 1506803179602ms] 10.1.0.1/16: set 10.1.0.212:33333 weight to 1
+discoverer: [time since epoch 1506803179687ms] 10.1.0.1/16: add subordinate 10.1.0.213:33333
+discoverer: [time since epoch 1506803179734ms] 10.1.0.1/16: set 10.1.0.213:33333 weight to 1
+discoverer: [time since epoch 1506803179801ms] 10.1.0.1/16: add subordinate 10.1.0.214:33333
+discoverer: [time since epoch 1506803179859ms] 10.1.0.1/16: set 10.1.0.214:33333 weight to 1
+discoverer: [time since epoch 1506803179918ms] 10.1.0.1/16: add subordinate 10.1.0.215:33333
+discoverer: [time since epoch 1506803179960ms] 10.1.0.1/16: set 10.1.0.215:33333 weight to 1
+discoverer: [time since epoch 1506803180038ms] 10.1.0.1/16: add subordinate 10.1.0.216:33333
+discoverer: [time since epoch 1506803180081ms] 10.1.0.1/16: set 10.1.0.216:33333 weight to 1
+discoverer: [time since epoch 1506803180176ms] 10.1.0.1/16: add subordinate 10.1.0.217:33333
+discoverer: [time since epoch 1506803180219ms] 10.1.0.1/16: set 10.1.0.217:33333 weight to 1
+discoverer: [time since epoch 1506803180287ms] 10.1.0.1/16: add subordinate 10.1.0.218:33333
+discoverer: [time since epoch 1506803180336ms] 10.1.0.1/16: set 10.1.0.218:33333 weight to 1
+discoverer: [time since epoch 1506803180400ms] 10.1.0.1/16: add subordinate 10.1.0.219:33333
+discoverer: [time since epoch 1506803180458ms] 10.1.0.1/16: set 10.1.0.219:33333 weight to 1
+discoverer: [time since epoch 1506803180523ms] 10.1.0.1/16: add subordinate 10.1.0.220:33333
+discoverer: [time since epoch 1506803180574ms] 10.1.0.1/16: set 10.1.0.220:33333 weight to 1
+discoverer: [time since epoch 1506803180636ms] 10.1.0.1/16: add subordinate 10.1.0.221:33333
+discoverer: [time since epoch 1506803180699ms] 10.1.0.1/16: set 10.1.0.221:33333 weight to 1
+discoverer: [time since epoch 1506803180751ms] 10.1.0.1/16: add subordinate 10.1.0.222:33333
+discoverer: [time since epoch 1506803180807ms] 10.1.0.1/16: set 10.1.0.222:33333 weight to 1
+discoverer: [time since epoch 1506803180870ms] 10.1.0.1/16: add subordinate 10.1.0.223:33333
+discoverer: [time since epoch 1506803180916ms] 10.1.0.1/16: set 10.1.0.223:33333 weight to 1
+discoverer: [time since epoch 1506803180989ms] 10.1.0.1/16: add subordinate 10.1.0.224:33333
+discoverer: [time since epoch 1506803181040ms] 10.1.0.1/16: set 10.1.0.224:33333 weight to 1
+discoverer: [time since epoch 1506803181128ms] 10.1.0.1/16: add subordinate 10.1.0.225:33333
+discoverer: [time since epoch 1506803181189ms] 10.1.0.1/16: set 10.1.0.225:33333 weight to 1
+discoverer: [time since epoch 1506803181254ms] 10.1.0.1/16: add subordinate 10.1.0.226:33333
+discoverer: [time since epoch 1506803181300ms] 10.1.0.1/16: set 10.1.0.226:33333 weight to 1
+discoverer: [time since epoch 1506803181356ms] 10.1.0.1/16: add subordinate 10.1.0.227:33333
+discoverer: [time since epoch 1506803181400ms] 10.1.0.1/16: set 10.1.0.227:33333 weight to 1
+discoverer: [time since epoch 1506803181460ms] 10.1.0.1/16: add subordinate 10.1.0.228:33333
+discoverer: [time since epoch 1506803181504ms] 10.1.0.1/16: set 10.1.0.228:33333 weight to 1
+discoverer: [time since epoch 1506803181591ms] 10.1.0.1/16: add subordinate 10.1.0.229:33333
+discoverer: [time since epoch 1506803181638ms] 10.1.0.1/16: set 10.1.0.229:33333 weight to 1
+discoverer: [time since epoch 1506803181709ms] 10.1.0.1/16: add subordinate 10.1.0.230:33333
+discoverer: [time since epoch 1506803181760ms] 10.1.0.1/16: set 10.1.0.230:33333 weight to 1
+discoverer: [time since epoch 1506803181826ms] 10.1.0.1/16: add subordinate 10.1.0.231:33333
+discoverer: [time since epoch 1506803181888ms] 10.1.0.1/16: set 10.1.0.231:33333 weight to 1
+discoverer: [time since epoch 1506803181945ms] 10.1.0.1/16: add subordinate 10.1.0.232:33333
+discoverer: [time since epoch 1506803182012ms] 10.1.0.1/16: set 10.1.0.232:33333 weight to 1
+discoverer: [time since epoch 1506803182059ms] 10.1.0.1/16: add subordinate 10.1.0.233:33333
+discoverer: [time since epoch 1506803182119ms] 10.1.0.1/16: set 10.1.0.233:33333 weight to 1
+discoverer: [time since epoch 1506803182187ms] 10.1.0.1/16: add subordinate 10.1.0.234:33333
+discoverer: [time since epoch 1506803182243ms] 10.1.0.1/16: set 10.1.0.234:33333 weight to 1
+discoverer: [time since epoch 1506803182309ms] 10.1.0.1/16: add subordinate 10.1.0.235:33333
+discoverer: [time since epoch 1506803182367ms] 10.1.0.1/16: set 10.1.0.235:33333 weight to 1
+discoverer: [time since epoch 1506803182417ms] 10.1.0.1/16: add subordinate 10.1.0.236:33333
+discoverer: [time since epoch 1506803182469ms] 10.1.0.1/16: set 10.1.0.236:33333 weight to 1
+discoverer: [time since epoch 1506803182533ms] 10.1.0.1/16: add subordinate 10.1.0.237:33333
+discoverer: [time since epoch 1506803182591ms] 10.1.0.1/16: set 10.1.0.237:33333 weight to 1
+discoverer: [time since epoch 1506803182662ms] 10.1.0.1/16: add subordinate 10.1.0.238:33333
+discoverer: [time since epoch 1506803182716ms] 10.1.0.1/16: set 10.1.0.238:33333 weight to 1
+discoverer: [time since epoch 1506803182775ms] 10.1.0.1/16: add subordinate 10.1.0.239:33333
+discoverer: [time since epoch 1506803182838ms] 10.1.0.1/16: set 10.1.0.239:33333 weight to 1
+discoverer: [time since epoch 1506803182895ms] 10.1.0.1/16: add subordinate 10.1.0.240:33333
+discoverer: [time since epoch 1506803182959ms] 10.1.0.1/16: set 10.1.0.240:33333 weight to 1
+discoverer: [time since epoch 1506803183014ms] 10.1.0.1/16: add subordinate 10.1.0.241:33333
+discoverer: [time since epoch 1506803183072ms] 10.1.0.1/16: set 10.1.0.241:33333 weight to 1
+discoverer: [time since epoch 1506803183136ms] 10.1.0.1/16: add subordinate 10.1.0.242:33333
+discoverer: [time since epoch 1506803183198ms] 10.1.0.1/16: set 10.1.0.242:33333 weight to 1
+discoverer: [time since epoch 1506803183256ms] 10.1.0.1/16: add subordinate 10.1.0.243:33333
+discoverer: [time since epoch 1506803183303ms] 10.1.0.1/16: set 10.1.0.243:33333 weight to 1
+discoverer: [time since epoch 1506803183379ms] 10.1.0.1/16: add subordinate 10.1.0.244:33333
+discoverer: [time since epoch 1506803183433ms] 10.1.0.1/16: set 10.1.0.244:33333 weight to 1
+discoverer: [time since epoch 1506803183495ms] 10.1.0.1/16: add subordinate 10.1.0.245:33333
+discoverer: [time since epoch 1506803183553ms] 10.1.0.1/16: set 10.1.0.245:33333 weight to 1
+discoverer: [time since epoch 1506803183611ms] 10.1.0.1/16: add subordinate 10.1.0.246:33333
+discoverer: [time since epoch 1506803183658ms] 10.1.0.1/16: set 10.1.0.246:33333 weight to 1
+discoverer: [time since epoch 1506803183707ms] 10.1.0.1/16: add subordinate 10.1.1.2:33333
+discoverer: [time since epoch 1506803183761ms] 10.1.0.1/16: set 10.1.1.2:33333 weight to 1
+discoverer: [time since epoch 1506803183761ms] 10.1.0.1/16: add subordinate 10.1.0.247:33333
+discoverer: [time since epoch 1506803183820ms] 10.1.0.1/16: set 10.1.0.247:33333 weight to 1
+discoverer: [time since epoch 1506803183820ms] 10.1.0.1/16: add subordinate 10.1.1.3:33333
+discoverer: [time since epoch 1506803183873ms] 10.1.0.1/16: set 10.1.1.3:33333 weight to 1
+discoverer: [time since epoch 1506803183877ms] 10.1.0.1/16: add subordinate 10.1.0.248:33333
+discoverer: [time since epoch 1506803183945ms] 10.1.0.1/16: set 10.1.0.248:33333 weight to 1
+discoverer: [time since epoch 1506803183945ms] 10.1.0.1/16: add subordinate 10.1.1.4:33333
+discoverer: [time since epoch 1506803184001ms] 10.1.0.1/16: set 10.1.1.4:33333 weight to 1
+discoverer: [time since epoch 1506803184001ms] 10.1.0.1/16: add subordinate 10.1.0.249:33333
+discoverer: [time since epoch 1506803184048ms] 10.1.0.1/16: set 10.1.0.249:33333 weight to 1
+discoverer: [time since epoch 1506803184048ms] 10.1.0.1/16: add subordinate 10.1.1.5:33333
+discoverer: [time since epoch 1506803184095ms] 10.1.0.1/16: set 10.1.1.5:33333 weight to 1
+discoverer: [time since epoch 1506803184122ms] 10.1.0.1/16: add subordinate 10.1.0.250:33333
+discoverer: [time since epoch 1506803184175ms] 10.1.0.1/16: set 10.1.0.250:33333 weight to 1
+discoverer: [time since epoch 1506803184175ms] 10.1.0.1/16: add subordinate 10.1.1.6:33333
+discoverer: [time since epoch 1506803184244ms] 10.1.0.1/16: set 10.1.1.6:33333 weight to 1
+discoverer: [time since epoch 1506803184255ms] 10.1.0.1/16: add subordinate 10.1.0.251:33333
+discoverer: [time since epoch 1506803184314ms] 10.1.0.1/16: set 10.1.0.251:33333 weight to 1
+discoverer: [time since epoch 1506803184314ms] 10.1.0.1/16: add subordinate 10.1.1.7:33333
+discoverer: [time since epoch 1506803184368ms] 10.1.0.1/16: set 10.1.1.7:33333 weight to 1
+discoverer: [time since epoch 1506803184368ms] 10.1.0.1/16: add subordinate 10.1.0.252:33333
+discoverer: [time since epoch 1506803184433ms] 10.1.0.1/16: set 10.1.0.252:33333 weight to 1
+discoverer: [time since epoch 1506803184433ms] 10.1.0.1/16: add subordinate 10.1.1.8:33333
+discoverer: [time since epoch 1506803184489ms] 10.1.0.1/16: set 10.1.1.8:33333 weight to 1
+discoverer: [time since epoch 1506803184499ms] 10.1.0.1/16: add subordinate 10.1.1.9:33333
+discoverer: [time since epoch 1506803184553ms] 10.1.0.1/16: set 10.1.1.9:33333 weight to 1
+discoverer: [time since epoch 1506803184553ms] 10.1.0.1/16: add subordinate 10.1.0.253:33333
+discoverer: [time since epoch 1506803184636ms] 10.1.0.1/16: set 10.1.0.253:33333 weight to 1
+discoverer: [time since epoch 1506803184636ms] 10.1.0.1/16: add subordinate 10.1.0.254:33333
+discoverer: [time since epoch 1506803184659ms] 10.1.0.1/16: add subordinate 10.1.1.10:33333
+discoverer: [time since epoch 1506803184739ms] 10.1.0.1/16: set 10.1.1.10:33333 weight to 1
+discoverer: [time since epoch 1506803184739ms] 10.1.0.1/16: add subordinate 10.1.1.11:33333
+discoverer: [time since epoch 1506803184740ms] 10.1.0.1/16: add subordinate 10.1.1.0:33333
+discoverer: [time since epoch 1506803184818ms] 10.1.0.1/16: set 10.1.0.254:33333 weight to 1
+discoverer: [time since epoch 1506803184831ms] 10.1.0.1/16: set 10.1.1.11:33333 weight to 1
+discoverer: [time since epoch 1506803184831ms] 10.1.0.1/16: set 10.1.1.0:33333 weight to 1
+discoverer: [time since epoch 1506803184831ms] 10.1.0.1/16: add subordinate 10.1.1.12:33333
+discoverer: [time since epoch 1506803184903ms] 10.1.0.1/16: set 10.1.1.12:33333 weight to 1
+discoverer: [time since epoch 1506803184903ms] 10.1.0.1/16: add subordinate 10.1.1.1:33333
+discoverer: [time since epoch 1506803184971ms] 10.1.0.1/16: add subordinate 10.1.1.13:33333
+discoverer: [time since epoch 1506803185025ms] 10.1.0.1/16: set 10.1.1.1:33333 weight to 1
+discoverer: [time since epoch 1506803185026ms] 10.1.0.1/16: set 10.1.1.13:33333 weight to 1
+discoverer: [time since epoch 1506803185050ms] 10.1.0.1/16: add subordinate 10.1.1.14:33333
+discoverer: [time since epoch 1506803185112ms] 10.1.0.1/16: set 10.1.1.14:33333 weight to 1
+discoverer: [time since epoch 1506803185165ms] 10.1.0.1/16: add subordinate 10.1.1.15:33333
+discoverer: [time since epoch 1506803185215ms] 10.1.0.1/16: set 10.1.1.15:33333 weight to 1
+discoverer: [time since epoch 1506803185277ms] 10.1.0.1/16: add subordinate 10.1.1.16:33333
+discoverer: [time since epoch 1506803185335ms] 10.1.0.1/16: set 10.1.1.16:33333 weight to 1
+discoverer: [time since epoch 1506803185391ms] 10.1.0.1/16: add subordinate 10.1.1.17:33333
+discoverer: [time since epoch 1506803185460ms] 10.1.0.1/16: set 10.1.1.17:33333 weight to 1
+discoverer: [time since epoch 1506803185500ms] 10.1.0.1/16: add subordinate 10.1.1.18:33333
+discoverer: [time since epoch 1506803185553ms] 10.1.0.1/16: set 10.1.1.18:33333 weight to 1
+discoverer: [time since epoch 1506803185619ms] 10.1.0.1/16: add subordinate 10.1.1.19:33333
+discoverer: [time since epoch 1506803185669ms] 10.1.0.1/16: set 10.1.1.19:33333 weight to 1
+discoverer: [time since epoch 1506803185723ms] 10.1.0.1/16: add subordinate 10.1.1.20:33333
+discoverer: [time since epoch 1506803185779ms] 10.1.0.1/16: set 10.1.1.20:33333 weight to 1
+discoverer: [time since epoch 1506803185839ms] 10.1.0.1/16: add subordinate 10.1.1.21:33333
+discoverer: [time since epoch 1506803185905ms] 10.1.0.1/16: set 10.1.1.21:33333 weight to 1
+discoverer: [time since epoch 1506803185947ms] 10.1.0.1/16: add subordinate 10.1.1.22:33333
+discoverer: [time since epoch 1506803185999ms] 10.1.0.1/16: set 10.1.1.22:33333 weight to 1
+discoverer: [time since epoch 1506803186063ms] 10.1.0.1/16: add subordinate 10.1.1.23:33333
+discoverer: [time since epoch 1506803186116ms] 10.1.0.1/16: set 10.1.1.23:33333 weight to 1
+discoverer: [time since epoch 1506803186178ms] 10.1.0.1/16: add subordinate 10.1.1.24:33333
+discoverer: [time since epoch 1506803186235ms] 10.1.0.1/16: set 10.1.1.24:33333 weight to 1
+discoverer: [time since epoch 1506803186291ms] 10.1.0.1/16: add subordinate 10.1.1.25:33333
+discoverer: [time since epoch 1506803186356ms] 10.1.0.1/16: set 10.1.1.25:33333 weight to 1
+discoverer: [time since epoch 1506803186409ms] 10.1.0.1/16: add subordinate 10.1.1.26:33333
+discoverer: [time since epoch 1506803186461ms] 10.1.0.1/16: set 10.1.1.26:33333 weight to 1
+discoverer: [time since epoch 1506803186523ms] 10.1.0.1/16: add subordinate 10.1.1.27:33333
+discoverer: [time since epoch 1506803186577ms] 10.1.0.1/16: set 10.1.1.27:33333 weight to 1
+discoverer: [time since epoch 1506803186638ms] 10.1.0.1/16: add subordinate 10.1.1.28:33333
+discoverer: [time since epoch 1506803186691ms] 10.1.0.1/16: set 10.1.1.28:33333 weight to 1
+discoverer: [time since epoch 1506803186753ms] 10.1.0.1/16: add subordinate 10.1.1.29:33333
+discoverer: [time since epoch 1506803186816ms] 10.1.0.1/16: set 10.1.1.29:33333 weight to 1
+discoverer: [time since epoch 1506803186863ms] 10.1.0.1/16: add subordinate 10.1.1.30:33333
+discoverer: [time since epoch 1506803186929ms] 10.1.0.1/16: set 10.1.1.30:33333 weight to 1
+discoverer: [time since epoch 1506803186975ms] 10.1.0.1/16: add subordinate 10.1.1.31:33333
+discoverer: [time since epoch 1506803187033ms] 10.1.0.1/16: set 10.1.1.31:33333 weight to 1
+discoverer: [time since epoch 1506803187088ms] 10.1.0.1/16: add subordinate 10.1.1.32:33333
+discoverer: [time since epoch 1506803187152ms] 10.1.0.1/16: set 10.1.1.32:33333 weight to 1
+discoverer: [time since epoch 1506803187194ms] 10.1.0.1/16: add subordinate 10.1.1.33:33333
+discoverer: [time since epoch 1506803187246ms] 10.1.0.1/16: set 10.1.1.33:33333 weight to 1
+discoverer: [time since epoch 1506803187310ms] 10.1.0.1/16: add subordinate 10.1.1.34:33333
+discoverer: [time since epoch 1506803187366ms] 10.1.0.1/16: set 10.1.1.34:33333 weight to 1
+discoverer: [time since epoch 1506803187423ms] 10.1.0.1/16: add subordinate 10.1.1.35:33333
+discoverer: [time since epoch 1506803187490ms] 10.1.0.1/16: set 10.1.1.35:33333 weight to 1
+discoverer: [time since epoch 1506803187539ms] 10.1.0.1/16: add subordinate 10.1.1.36:33333
+discoverer: [time since epoch 1506803187616ms] 10.1.0.1/16: set 10.1.1.36:33333 weight to 1
+discoverer: [time since epoch 1506803187658ms] 10.1.0.1/16: add subordinate 10.1.1.37:33333
+discoverer: [time since epoch 1506803187729ms] 10.1.0.1/16: set 10.1.1.37:33333 weight to 1
+discoverer: [time since epoch 1506803187771ms] 10.1.0.1/16: add subordinate 10.1.1.38:33333
+discoverer: [time since epoch 1506803187832ms] 10.1.0.1/16: set 10.1.1.38:33333 weight to 1
+discoverer: [time since epoch 1506803187884ms] 10.1.0.1/16: add subordinate 10.1.1.39:33333
+discoverer: [time since epoch 1506803187967ms] 10.1.0.1/16: set 10.1.1.39:33333 weight to 1
+discoverer: [time since epoch 1506803187995ms] 10.1.0.1/16: add subordinate 10.1.1.40:33333
+discoverer: [time since epoch 1506803188060ms] 10.1.0.1/16: set 10.1.1.40:33333 weight to 1
+discoverer: [time since epoch 1506803188110ms] 10.1.0.1/16: add subordinate 10.1.1.41:33333
+discoverer: [time since epoch 1506803188163ms] 10.1.0.1/16: set 10.1.1.41:33333 weight to 1
+discoverer: [time since epoch 1506803188240ms] 10.1.0.1/16: add subordinate 10.1.1.42:33333
+discoverer: [time since epoch 1506803188301ms] 10.1.0.1/16: set 10.1.1.42:33333 weight to 1
+discoverer: [time since epoch 1506803188338ms] 10.1.0.1/16: add subordinate 10.1.1.43:33333
+discoverer: [time since epoch 1506803188391ms] 10.1.0.1/16: set 10.1.1.43:33333 weight to 1
+discoverer: [time since epoch 1506803188450ms] 10.1.0.1/16: add subordinate 10.1.1.44:33333
+discoverer: [time since epoch 1506803188514ms] 10.1.0.1/16: set 10.1.1.44:33333 weight to 1
+discoverer: [time since epoch 1506803188565ms] 10.1.0.1/16: add subordinate 10.1.1.45:33333
+discoverer: [time since epoch 1506803188631ms] 10.1.0.1/16: set 10.1.1.45:33333 weight to 1
+discoverer: [time since epoch 1506803188680ms] 10.1.0.1/16: add subordinate 10.1.1.46:33333
+discoverer: [time since epoch 1506803188743ms] 10.1.0.1/16: set 10.1.1.46:33333 weight to 1
+discoverer: [time since epoch 1506803188795ms] 10.1.0.1/16: add subordinate 10.1.1.47:33333
+discoverer: [time since epoch 1506803188862ms] 10.1.0.1/16: set 10.1.1.47:33333 weight to 1
+discoverer: [time since epoch 1506803188909ms] 10.1.0.1/16: add subordinate 10.1.1.48:33333
+discoverer: [time since epoch 1506803188968ms] 10.1.0.1/16: set 10.1.1.48:33333 weight to 1
+discoverer: [time since epoch 1506803189023ms] 10.1.0.1/16: add subordinate 10.1.1.49:33333
+discoverer: [time since epoch 1506803189094ms] 10.1.0.1/16: set 10.1.1.49:33333 weight to 1
+discoverer: [time since epoch 1506803189130ms] 10.1.0.1/16: add subordinate 10.1.1.50:33333
+discoverer: [time since epoch 1506803189200ms] 10.1.0.1/16: set 10.1.1.50:33333 weight to 1
+discoverer: [time since epoch 1506803189247ms] 10.1.0.1/16: add subordinate 10.1.1.51:33333
+discoverer: [time since epoch 1506803189307ms] 10.1.0.1/16: set 10.1.1.51:33333 weight to 1
+discoverer: [time since epoch 1506803189359ms] 10.1.0.1/16: add subordinate 10.1.1.52:33333
+discoverer: [time since epoch 1506803189423ms] 10.1.0.1/16: set 10.1.1.52:33333 weight to 1
+discoverer: [time since epoch 1506803189474ms] 10.1.0.1/16: add subordinate 10.1.1.53:33333
+discoverer: [time since epoch 1506803189529ms] 10.1.0.1/16: set 10.1.1.53:33333 weight to 1
+discoverer: [time since epoch 1506803189588ms] 10.1.0.1/16: add subordinate 10.1.1.54:33333
+discoverer: [time since epoch 1506803189652ms] 10.1.0.1/16: set 10.1.1.54:33333 weight to 1
+discoverer: [time since epoch 1506803189707ms] 10.1.0.1/16: add subordinate 10.1.1.55:33333
+discoverer: [time since epoch 1506803189787ms] 10.1.0.1/16: set 10.1.1.55:33333 weight to 1
+discoverer: [time since epoch 1506803189819ms] 10.1.0.1/16: add subordinate 10.1.1.56:33333
+discoverer: [time since epoch 1506803189888ms] 10.1.0.1/16: set 10.1.1.56:33333 weight to 1
+discoverer: [time since epoch 1506803189931ms] 10.1.0.1/16: add subordinate 10.1.1.57:33333
+discoverer: [time since epoch 1506803189992ms] 10.1.0.1/16: set 10.1.1.57:33333 weight to 1
+discoverer: [time since epoch 1506803190042ms] 10.1.0.1/16: add subordinate 10.1.1.58:33333
+discoverer: [time since epoch 1506803190108ms] 10.1.0.1/16: set 10.1.1.58:33333 weight to 1
+discoverer: [time since epoch 1506803190108ms] 10.1.0.1/16: add subordinate 10.1.1.66:33333
+discoverer: [time since epoch 1506803190166ms] 10.1.0.1/16: set 10.1.1.66:33333 weight to 1
+discoverer: [time since epoch 1506803190166ms] 10.1.0.1/16: add subordinate 10.1.1.59:33333
+discoverer: [time since epoch 1506803190220ms] 10.1.0.1/16: set 10.1.1.59:33333 weight to 1
+discoverer: [time since epoch 1506803190220ms] 10.1.0.1/16: add subordinate 10.1.1.67:33333
+discoverer: [time since epoch 1506803190279ms] 10.1.0.1/16: set 10.1.1.67:33333 weight to 1
+discoverer: [time since epoch 1506803190279ms] 10.1.0.1/16: add subordinate 10.1.1.60:33333
+discoverer: [time since epoch 1506803190334ms] 10.1.0.1/16: set 10.1.1.60:33333 weight to 1
+discoverer: [time since epoch 1506803190334ms] 10.1.0.1/16: add subordinate 10.1.1.68:33333
+discoverer: [time since epoch 1506803190390ms] 10.1.0.1/16: set 10.1.1.68:33333 weight to 1
+discoverer: [time since epoch 1506803190390ms] 10.1.0.1/16: add subordinate 10.1.1.61:33333
+discoverer: [time since epoch 1506803190454ms] 10.1.0.1/16: set 10.1.1.61:33333 weight to 1
+discoverer: [time since epoch 1506803190454ms] 10.1.0.1/16: add subordinate 10.1.1.69:33333
+discoverer: [time since epoch 1506803190525ms] 10.1.0.1/16: set 10.1.1.69:33333 weight to 1
+discoverer: [time since epoch 1506803190525ms] 10.1.0.1/16: add subordinate 10.1.1.62:33333
+discoverer: [time since epoch 1506803190580ms] 10.1.0.1/16: set 10.1.1.62:33333 weight to 1
+discoverer: [time since epoch 1506803190580ms] 10.1.0.1/16: add subordinate 10.1.1.70:33333
+discoverer: [time since epoch 1506803190635ms] 10.1.0.1/16: set 10.1.1.70:33333 weight to 1
+discoverer: [time since epoch 1506803190635ms] 10.1.0.1/16: add subordinate 10.1.1.63:33333
+discoverer: [time since epoch 1506803190698ms] 10.1.0.1/16: set 10.1.1.63:33333 weight to 1
+discoverer: [time since epoch 1506803190698ms] 10.1.0.1/16: add subordinate 10.1.1.71:33333
+discoverer: [time since epoch 1506803190767ms] 10.1.0.1/16: set 10.1.1.71:33333 weight to 1
+discoverer: [time since epoch 1506803190767ms] 10.1.0.1/16: add subordinate 10.1.1.64:33333
+discoverer: [time since epoch 1506803190767ms] 10.1.0.1/16: add subordinate 10.1.1.72:33333
+discoverer: [time since epoch 1506803190876ms] 10.1.0.1/16: set 10.1.1.72:33333 weight to 1
+discoverer: [time since epoch 1506803190880ms] 10.1.0.1/16: add subordinate 10.1.1.73:33333
+discoverer: [time since epoch 1506803190958ms] 10.1.0.1/16: set 10.1.1.64:33333 weight to 1
+discoverer: [time since epoch 1506803190959ms] 10.1.0.1/16: add subordinate 10.1.1.65:33333
+discoverer: [time since epoch 1506803190971ms] 10.1.0.1/16: set 10.1.1.73:33333 weight to 1
+discoverer: [time since epoch 1506803191030ms] 10.1.0.1/16: add subordinate 10.1.1.74:33333
+discoverer: [time since epoch 1506803191086ms] 10.1.0.1/16: set 10.1.1.65:33333 weight to 1
+discoverer: [time since epoch 1506803191087ms] 10.1.0.1/16: set 10.1.1.74:33333 weight to 1
+discoverer: [time since epoch 1506803191091ms] 10.1.0.1/16: add subordinate 10.1.1.75:33333
+discoverer: [time since epoch 1506803191148ms] 10.1.0.1/16: set 10.1.1.75:33333 weight to 1
+discoverer: [time since epoch 1506803191198ms] 10.1.0.1/16: add subordinate 10.1.1.76:33333
+discoverer: [time since epoch 1506803191256ms] 10.1.0.1/16: set 10.1.1.76:33333 weight to 1
+discoverer: [time since epoch 1506803191316ms] 10.1.0.1/16: add subordinate 10.1.1.77:33333
+discoverer: [time since epoch 1506803191374ms] 10.1.0.1/16: set 10.1.1.77:33333 weight to 1
+discoverer: [time since epoch 1506803191418ms] 10.1.0.1/16: add subordinate 10.1.1.78:33333
+discoverer: [time since epoch 1506803191476ms] 10.1.0.1/16: set 10.1.1.78:33333 weight to 1
+discoverer: [time since epoch 1506803191526ms] 10.1.0.1/16: add subordinate 10.1.1.79:33333
+discoverer: [time since epoch 1506803191591ms] 10.1.0.1/16: set 10.1.1.79:33333 weight to 1
+discoverer: [time since epoch 1506803191640ms] 10.1.0.1/16: add subordinate 10.1.1.80:33333
+discoverer: [time since epoch 1506803191714ms] 10.1.0.1/16: set 10.1.1.80:33333 weight to 1
+discoverer: [time since epoch 1506803191749ms] 10.1.0.1/16: add subordinate 10.1.1.81:33333
+discoverer: [time since epoch 1506803191810ms] 10.1.0.1/16: set 10.1.1.81:33333 weight to 1
+discoverer: [time since epoch 1506803191860ms] 10.1.0.1/16: add subordinate 10.1.1.82:33333
+discoverer: [time since epoch 1506803191919ms] 10.1.0.1/16: set 10.1.1.82:33333 weight to 1
+discoverer: [time since epoch 1506803191972ms] 10.1.0.1/16: add subordinate 10.1.1.83:33333
+discoverer: [time since epoch 1506803192037ms] 10.1.0.1/16: set 10.1.1.83:33333 weight to 1
+discoverer: [time since epoch 1506803192086ms] 10.1.0.1/16: add subordinate 10.1.1.84:33333
+discoverer: [time since epoch 1506803192158ms] 10.1.0.1/16: set 10.1.1.84:33333 weight to 1
+discoverer: [time since epoch 1506803192204ms] 10.1.0.1/16: add subordinate 10.1.1.85:33333
+discoverer: [time since epoch 1506803192263ms] 10.1.0.1/16: set 10.1.1.85:33333 weight to 1
+discoverer: [time since epoch 1506803192301ms] 10.1.0.1/16: add subordinate 10.1.1.86:33333
+discoverer: [time since epoch 1506803192360ms] 10.1.0.1/16: set 10.1.1.86:33333 weight to 1
+discoverer: [time since epoch 1506803192416ms] 10.1.0.1/16: add subordinate 10.1.1.87:33333
+discoverer: [time since epoch 1506803192476ms] 10.1.0.1/16: set 10.1.1.87:33333 weight to 1
+discoverer: [time since epoch 1506803192527ms] 10.1.0.1/16: add subordinate 10.1.1.88:33333
+discoverer: [time since epoch 1506803192592ms] 10.1.0.1/16: set 10.1.1.88:33333 weight to 1
+discoverer: [time since epoch 1506803192637ms] 10.1.0.1/16: add subordinate 10.1.1.89:33333
+discoverer: [time since epoch 1506803192716ms] 10.1.0.1/16: set 10.1.1.89:33333 weight to 1
+discoverer: [time since epoch 1506803192748ms] 10.1.0.1/16: add subordinate 10.1.1.90:33333
+discoverer: [time since epoch 1506803192819ms] 10.1.0.1/16: set 10.1.1.90:33333 weight to 1
+discoverer: [time since epoch 1506803192863ms] 10.1.0.1/16: add subordinate 10.1.1.91:33333
+discoverer: [time since epoch 1506803192923ms] 10.1.0.1/16: set 10.1.1.91:33333 weight to 1
+discoverer: [time since epoch 1506803192976ms] 10.1.0.1/16: add subordinate 10.1.1.92:33333
+discoverer: [time since epoch 1506803193045ms] 10.1.0.1/16: set 10.1.1.92:33333 weight to 1
+discoverer: [time since epoch 1506803193105ms] 10.1.0.1/16: add subordinate 10.1.1.93:33333
+discoverer: [time since epoch 1506803193180ms] 10.1.0.1/16: set 10.1.1.93:33333 weight to 1
+discoverer: [time since epoch 1506803193190ms] 10.1.0.1/16: add subordinate 10.1.1.94:33333
+discoverer: [time since epoch 1506803193253ms] 10.1.0.1/16: set 10.1.1.94:33333 weight to 1
+discoverer: [time since epoch 1506803193302ms] 10.1.0.1/16: add subordinate 10.1.1.95:33333
+discoverer: [time since epoch 1506803193362ms] 10.1.0.1/16: set 10.1.1.95:33333 weight to 1
+discoverer: [time since epoch 1506803193412ms] 10.1.0.1/16: add subordinate 10.1.1.96:33333
+discoverer: [time since epoch 1506803193474ms] 10.1.0.1/16: set 10.1.1.96:33333 weight to 1
+discoverer: [time since epoch 1506803193525ms] 10.1.0.1/16: add subordinate 10.1.1.97:33333
+discoverer: [time since epoch 1506803193586ms] 10.1.0.1/16: set 10.1.1.97:33333 weight to 1
+discoverer: [time since epoch 1506803193639ms] 10.1.0.1/16: add subordinate 10.1.1.98:33333
+discoverer: [time since epoch 1506803193699ms] 10.1.0.1/16: set 10.1.1.98:33333 weight to 1
+discoverer: [time since epoch 1506803193752ms] 10.1.0.1/16: add subordinate 10.1.1.99:33333
+discoverer: [time since epoch 1506803193815ms] 10.1.0.1/16: set 10.1.1.99:33333 weight to 1
+discoverer: [time since epoch 1506803193877ms] 10.1.0.1/16: add subordinate 10.1.1.100:33333
+discoverer: [time since epoch 1506803193938ms] 10.1.0.1/16: set 10.1.1.100:33333 weight to 1
+discoverer: [time since epoch 1506803193979ms] 10.1.0.1/16: add subordinate 10.1.1.101:33333
+discoverer: [time since epoch 1506803194040ms] 10.1.0.1/16: set 10.1.1.101:33333 weight to 1
+discoverer: [time since epoch 1506803194091ms] 10.1.0.1/16: add subordinate 10.1.1.102:33333
+discoverer: [time since epoch 1506803194159ms] 10.1.0.1/16: set 10.1.1.102:33333 weight to 1
+discoverer: [time since epoch 1506803194195ms] 10.1.0.1/16: add subordinate 10.1.1.103:33333
+discoverer: [time since epoch 1506803194269ms] 10.1.0.1/16: set 10.1.1.103:33333 weight to 1
+discoverer: [time since epoch 1506803194316ms] 10.1.0.1/16: add subordinate 10.1.1.104:33333
+discoverer: [time since epoch 1506803194380ms] 10.1.0.1/16: set 10.1.1.104:33333 weight to 1
+discoverer: [time since epoch 1506803194418ms] 10.1.0.1/16: add subordinate 10.1.1.105:33333
+discoverer: [time since epoch 1506803194480ms] 10.1.0.1/16: set 10.1.1.105:33333 weight to 1
+discoverer: [time since epoch 1506803194532ms] 10.1.0.1/16: add subordinate 10.1.1.106:33333
+discoverer: [time since epoch 1506803194593ms] 10.1.0.1/16: set 10.1.1.106:33333 weight to 1
+discoverer: [time since epoch 1506803194642ms] 10.1.0.1/16: add subordinate 10.1.1.107:33333
+discoverer: [time since epoch 1506803194704ms] 10.1.0.1/16: set 10.1.1.107:33333 weight to 1
+discoverer: [time since epoch 1506803194763ms] 10.1.0.1/16: add subordinate 10.1.1.108:33333
+discoverer: [time since epoch 1506803194824ms] 10.1.0.1/16: set 10.1.1.108:33333 weight to 1
+discoverer: [time since epoch 1506803194865ms] 10.1.0.1/16: add subordinate 10.1.1.109:33333
+discoverer: [time since epoch 1506803194933ms] 10.1.0.1/16: set 10.1.1.109:33333 weight to 1
+discoverer: [time since epoch 1506803194983ms] 10.1.0.1/16: add subordinate 10.1.1.110:33333
+discoverer: [time since epoch 1506803195055ms] 10.1.0.1/16: set 10.1.1.110:33333 weight to 1
+discoverer: [time since epoch 1506803195096ms] 10.1.0.1/16: add subordinate 10.1.1.111:33333
+discoverer: [time since epoch 1506803195171ms] 10.1.0.1/16: set 10.1.1.111:33333 weight to 1
+discoverer: [time since epoch 1506803195206ms] 10.1.0.1/16: add subordinate 10.1.1.112:33333
+discoverer: [time since epoch 1506803195281ms] 10.1.0.1/16: set 10.1.1.112:33333 weight to 1
+discoverer: [time since epoch 1506803195316ms] 10.1.0.1/16: add subordinate 10.1.1.113:33333
+discoverer: [time since epoch 1506803195379ms] 10.1.0.1/16: set 10.1.1.113:33333 weight to 1
+discoverer: [time since epoch 1506803195425ms] 10.1.0.1/16: add subordinate 10.1.1.114:33333
+discoverer: [time since epoch 1506803195489ms] 10.1.0.1/16: set 10.1.1.114:33333 weight to 1
+discoverer: [time since epoch 1506803195536ms] 10.1.0.1/16: add subordinate 10.1.1.115:33333
+discoverer: [time since epoch 1506803195606ms] 10.1.0.1/16: set 10.1.1.115:33333 weight to 1
+discoverer: [time since epoch 1506803195655ms] 10.1.0.1/16: add subordinate 10.1.1.116:33333
+discoverer: [time since epoch 1506803195729ms] 10.1.0.1/16: set 10.1.1.116:33333 weight to 1
+discoverer: [time since epoch 1506803195760ms] 10.1.0.1/16: add subordinate 10.1.1.117:33333
+discoverer: [time since epoch 1506803195831ms] 10.1.0.1/16: set 10.1.1.117:33333 weight to 1
+discoverer: [time since epoch 1506803195875ms] 10.1.0.1/16: add subordinate 10.1.1.118:33333
+discoverer: [time since epoch 1506803195948ms] 10.1.0.1/16: set 10.1.1.118:33333 weight to 1
+discoverer: [time since epoch 1506803195992ms] 10.1.0.1/16: add subordinate 10.1.1.119:33333
+discoverer: [time since epoch 1506803196061ms] 10.1.0.1/16: set 10.1.1.119:33333 weight to 1
+discoverer: [time since epoch 1506803196133ms] 10.1.0.1/16: add subordinate 10.1.1.120:33333
+discoverer: [time since epoch 1506803196216ms] 10.1.0.1/16: set 10.1.1.120:33333 weight to 1
+discoverer: [time since epoch 1506803196216ms] 10.1.0.1/16: add subordinate 10.1.1.121:33333
+discoverer: [time since epoch 1506803196302ms] 10.1.0.1/16: set 10.1.1.121:33333 weight to 1
+discoverer: [time since epoch 1506803196348ms] 10.1.0.1/16: add subordinate 10.1.1.122:33333
+discoverer: [time since epoch 1506803196447ms] 10.1.0.1/16: set 10.1.1.122:33333 weight to 1
+discoverer: [time since epoch 1506803196447ms] 10.1.0.1/16: add subordinate 10.1.1.123:33333
+discoverer: [time since epoch 1506803196538ms] 10.1.0.1/16: set 10.1.1.123:33333 weight to 1
+discoverer: [time since epoch 1506803196605ms] 10.1.0.1/16: add subordinate 10.1.1.124:33333
+discoverer: [time since epoch 1506803196695ms] 10.1.0.1/16: set 10.1.1.124:33333 weight to 1
+discoverer: [time since epoch 1506803196695ms] 10.1.0.1/16: add subordinate 10.1.1.125:33333
+discoverer: [time since epoch 1506803196775ms] 10.1.0.1/16: set 10.1.1.125:33333 weight to 1
+discoverer: [time since epoch 1506803196828ms] 10.1.0.1/16: add subordinate 10.1.1.126:33333
+discoverer: [time since epoch 1506803196911ms] 10.1.0.1/16: set 10.1.1.126:33333 weight to 1
+discoverer: [time since epoch 1506803196917ms] 10.1.0.1/16: add subordinate 10.1.1.127:33333
+discoverer: [time since epoch 1506803197007ms] 10.1.0.1/16: set 10.1.1.127:33333 weight to 1
+discoverer: [time since epoch 1506803197054ms] 10.1.0.1/16: add subordinate 10.1.1.128:33333
+discoverer: [time since epoch 1506803197138ms] 10.1.0.1/16: set 10.1.1.128:33333 weight to 1
+discoverer: [time since epoch 1506803197150ms] 10.1.0.1/16: add subordinate 10.1.1.129:33333
+discoverer: [time since epoch 1506803197254ms] 10.1.0.1/16: set 10.1.1.129:33333 weight to 1
+discoverer: [time since epoch 1506803218063ms] 10.1.0.1/16: all addresses have been probed
+discoverer: [time since epoch 1506803218315ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 2
+discoverer: [time since epoch 1506803218373ms] 10.1.0.1/16: remove subordinate 10.1.0.3:33333
+discoverer: [time since epoch 1506803218448ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 3
+discoverer: [time since epoch 1506803218454ms] 10.1.0.1/16: remove subordinate 10.1.0.4:33333
+discoverer: [time since epoch 1506803218563ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 4
+discoverer: [time since epoch 1506803218564ms] 10.1.0.1/16: remove subordinate 10.1.0.5:33333
+discoverer: [time since epoch 1506803218669ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 5
+discoverer: [time since epoch 1506803218669ms] 10.1.0.1/16: remove subordinate 10.1.0.6:33333
+discoverer: [time since epoch 1506803218777ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 6
+discoverer: [time since epoch 1506803218777ms] 10.1.0.1/16: remove subordinate 10.1.0.7:33333
+discoverer: [time since epoch 1506803218882ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 7
+discoverer: [time since epoch 1506803218882ms] 10.1.0.1/16: remove subordinate 10.1.0.8:33333
+discoverer: [time since epoch 1506803219004ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 8
+discoverer: [time since epoch 1506803219017ms] 10.1.0.1/16: remove subordinate 10.1.0.9:33333
+discoverer: [time since epoch 1506803219134ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 9
+discoverer: [time since epoch 1506803219147ms] 10.1.0.1/16: remove subordinate 10.1.0.10:33333
+discoverer: [time since epoch 1506803219263ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 10
+discoverer: [time since epoch 1506803219276ms] 10.1.0.1/16: remove subordinate 10.1.0.11:33333
+discoverer: [time since epoch 1506803219392ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 11
+discoverer: [time since epoch 1506803219405ms] 10.1.0.1/16: remove subordinate 10.1.0.12:33333
+discoverer: [time since epoch 1506803219506ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 12
+discoverer: [time since epoch 1506803219507ms] 10.1.0.1/16: remove subordinate 10.1.0.13:33333
+discoverer: [time since epoch 1506803219626ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 13
+discoverer: [time since epoch 1506803219638ms] 10.1.0.1/16: remove subordinate 10.1.0.14:33333
+discoverer: [time since epoch 1506803219753ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 14
+discoverer: [time since epoch 1506803219769ms] 10.1.0.1/16: remove subordinate 10.1.0.15:33333
+discoverer: [time since epoch 1506803219869ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 15
+discoverer: [time since epoch 1506803219869ms] 10.1.0.1/16: remove subordinate 10.1.0.16:33333
+discoverer: [time since epoch 1506803219976ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 16
+discoverer: [time since epoch 1506803219976ms] 10.1.0.1/16: remove subordinate 10.1.0.17:33333
+discoverer: [time since epoch 1506803220092ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 17
+discoverer: [time since epoch 1506803220092ms] 10.1.0.1/16: remove subordinate 10.1.0.18:33333
+discoverer: [time since epoch 1506803220192ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 18
+discoverer: [time since epoch 1506803220193ms] 10.1.0.1/16: remove subordinate 10.1.0.19:33333
+discoverer: [time since epoch 1506803220307ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 19
+discoverer: [time since epoch 1506803220308ms] 10.1.0.1/16: remove subordinate 10.1.0.20:33333
+discoverer: [time since epoch 1506803220429ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 20
+discoverer: [time since epoch 1506803220430ms] 10.1.0.1/16: remove subordinate 10.1.0.21:33333
+discoverer: [time since epoch 1506803220530ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 21
+discoverer: [time since epoch 1506803220530ms] 10.1.0.1/16: remove subordinate 10.1.0.22:33333
+discoverer: [time since epoch 1506803220644ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 22
+discoverer: [time since epoch 1506803220644ms] 10.1.0.1/16: remove subordinate 10.1.0.23:33333
+discoverer: [time since epoch 1506803220748ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 23
+discoverer: [time since epoch 1506803220749ms] 10.1.0.1/16: remove subordinate 10.1.0.24:33333
+discoverer: [time since epoch 1506803220862ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 24
+discoverer: [time since epoch 1506803220875ms] 10.1.0.1/16: remove subordinate 10.1.0.25:33333
+discoverer: [time since epoch 1506803220973ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 25
+discoverer: [time since epoch 1506803220974ms] 10.1.0.1/16: remove subordinate 10.1.0.26:33333
+discoverer: [time since epoch 1506803221086ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 26
+discoverer: [time since epoch 1506803221086ms] 10.1.0.1/16: remove subordinate 10.1.0.27:33333
+discoverer: [time since epoch 1506803221201ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 27
+discoverer: [time since epoch 1506803221270ms] 10.1.0.1/16: remove subordinate 10.1.0.28:33333
+discoverer: [time since epoch 1506803221338ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 28
+discoverer: [time since epoch 1506803221338ms] 10.1.0.1/16: remove subordinate 10.1.0.29:33333
+discoverer: [time since epoch 1506803221444ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 29
+discoverer: [time since epoch 1506803221444ms] 10.1.0.1/16: remove subordinate 10.1.0.30:33333
+discoverer: [time since epoch 1506803221552ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 30
+discoverer: [time since epoch 1506803221552ms] 10.1.0.1/16: remove subordinate 10.1.0.31:33333
+discoverer: [time since epoch 1506803221649ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 31
+discoverer: [time since epoch 1506803221649ms] 10.1.0.1/16: remove subordinate 10.1.0.32:33333
+discoverer: [time since epoch 1506803221755ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 32
+discoverer: [time since epoch 1506803221755ms] 10.1.0.1/16: remove subordinate 10.1.0.33:33333
+discoverer: [time since epoch 1506803221884ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 33
+discoverer: [time since epoch 1506803221897ms] 10.1.0.1/16: remove subordinate 10.1.0.34:33333
+discoverer: [time since epoch 1506803222010ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 34
+discoverer: [time since epoch 1506803222010ms] 10.1.0.1/16: remove subordinate 10.1.0.35:33333
+discoverer: [time since epoch 1506803222124ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 35
+discoverer: [time since epoch 1506803222189ms] 10.1.0.1/16: remove subordinate 10.1.0.36:33333
+discoverer: [time since epoch 1506803222260ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 36
+discoverer: [time since epoch 1506803222268ms] 10.1.0.1/16: remove subordinate 10.1.0.37:33333
+discoverer: [time since epoch 1506803222373ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 37
+discoverer: [time since epoch 1506803222373ms] 10.1.0.1/16: remove subordinate 10.1.0.38:33333
+discoverer: [time since epoch 1506803222487ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 38
+discoverer: [time since epoch 1506803222550ms] 10.1.0.1/16: remove subordinate 10.1.0.39:33333
+discoverer: [time since epoch 1506803222608ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 39
+discoverer: [time since epoch 1506803222609ms] 10.1.0.1/16: remove subordinate 10.1.0.40:33333
+discoverer: [time since epoch 1506803222713ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 40
+discoverer: [time since epoch 1506803222714ms] 10.1.0.1/16: remove subordinate 10.1.0.41:33333
+discoverer: [time since epoch 1506803222818ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 41
+discoverer: [time since epoch 1506803222818ms] 10.1.0.1/16: remove subordinate 10.1.0.42:33333
+discoverer: [time since epoch 1506803222923ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 42
+discoverer: [time since epoch 1506803222936ms] 10.1.0.1/16: remove subordinate 10.1.0.43:33333
+discoverer: [time since epoch 1506803223036ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 43
+discoverer: [time since epoch 1506803223105ms] 10.1.0.1/16: remove subordinate 10.1.0.44:33333
+discoverer: [time since epoch 1506803223163ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 44
+discoverer: [time since epoch 1506803223163ms] 10.1.0.1/16: remove subordinate 10.1.0.45:33333
+discoverer: [time since epoch 1506803223261ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 45
+discoverer: [time since epoch 1506803223262ms] 10.1.0.1/16: remove subordinate 10.1.0.46:33333
+discoverer: [time since epoch 1506803223377ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 46
+discoverer: [time since epoch 1506803223377ms] 10.1.0.1/16: remove subordinate 10.1.0.47:33333
+discoverer: [time since epoch 1506803223490ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 47
+discoverer: [time since epoch 1506803223547ms] 10.1.0.1/16: remove subordinate 10.1.0.48:33333
+discoverer: [time since epoch 1506803223623ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 48
+discoverer: [time since epoch 1506803223645ms] 10.1.0.1/16: remove subordinate 10.1.0.49:33333
+discoverer: [time since epoch 1506803223729ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 49
+discoverer: [time since epoch 1506803223730ms] 10.1.0.1/16: remove subordinate 10.1.0.50:33333
+discoverer: [time since epoch 1506803223833ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 50
+discoverer: [time since epoch 1506803223834ms] 10.1.0.1/16: remove subordinate 10.1.0.51:33333
+discoverer: [time since epoch 1506803223931ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 51
+discoverer: [time since epoch 1506803223986ms] 10.1.0.1/16: remove subordinate 10.1.0.52:33333
+discoverer: [time since epoch 1506803224067ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 52
+discoverer: [time since epoch 1506803224068ms] 10.1.0.1/16: remove subordinate 10.1.0.53:33333
+discoverer: [time since epoch 1506803224203ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 53
+discoverer: [time since epoch 1506803224203ms] 10.1.0.1/16: remove subordinate 10.1.0.54:33333
+discoverer: [time since epoch 1506803224299ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 54
+discoverer: [time since epoch 1506803224299ms] 10.1.0.1/16: remove subordinate 10.1.0.55:33333
+discoverer: [time since epoch 1506803224391ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 55
+discoverer: [time since epoch 1506803224391ms] 10.1.0.1/16: remove subordinate 10.1.0.56:33333
+discoverer: [time since epoch 1506803224492ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 56
+discoverer: [time since epoch 1506803224496ms] 10.1.0.1/16: remove subordinate 10.1.0.57:33333
+discoverer: [time since epoch 1506803224589ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 57
+discoverer: [time since epoch 1506803224589ms] 10.1.0.1/16: remove subordinate 10.1.0.65:33333
+discoverer: [time since epoch 1506803224685ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 58
+discoverer: [time since epoch 1506803224685ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 59
+discoverer: [time since epoch 1506803224685ms] 10.1.0.1/16: remove subordinate 10.1.0.58:33333
+discoverer: [time since epoch 1506803224821ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 60
+discoverer: [time since epoch 1506803224821ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 61
+discoverer: [time since epoch 1506803224822ms] 10.1.0.1/16: remove subordinate 10.1.0.66:33333
+discoverer: [time since epoch 1506803224822ms] 10.1.0.1/16: remove subordinate 10.1.0.59:33333
+discoverer: [time since epoch 1506803224822ms] 10.1.0.1/16: remove subordinate 10.1.0.67:33333
+discoverer: [time since epoch 1506803225034ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 62
+discoverer: [time since epoch 1506803225034ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 63
+discoverer: [time since epoch 1506803225034ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 64
+discoverer: [time since epoch 1506803225035ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 65
+discoverer: [time since epoch 1506803225035ms] 10.1.0.1/16: remove subordinate 10.1.0.68:33333
+discoverer: [time since epoch 1506803225035ms] 10.1.0.1/16: remove subordinate 10.1.0.60:33333
+discoverer: [time since epoch 1506803225036ms] 10.1.0.1/16: remove subordinate 10.1.0.61:33333
+discoverer: [time since epoch 1506803225036ms] 10.1.0.1/16: remove subordinate 10.1.0.69:33333
+discoverer: [time since epoch 1506803225361ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 66
+discoverer: [time since epoch 1506803225361ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 67
+discoverer: [time since epoch 1506803225361ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 68
+discoverer: [time since epoch 1506803225362ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 69
+discoverer: [time since epoch 1506803225362ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 70
+discoverer: [time since epoch 1506803225362ms] 10.1.0.1/16: remove subordinate 10.1.0.62:33333
+discoverer: [time since epoch 1506803225363ms] 10.1.0.1/16: remove subordinate 10.1.0.70:33333
+discoverer: [time since epoch 1506803225363ms] 10.1.0.1/16: remove subordinate 10.1.0.71:33333
+discoverer: [time since epoch 1506803225363ms] 10.1.0.1/16: remove subordinate 10.1.0.63:33333
+discoverer: [time since epoch 1506803225364ms] 10.1.0.1/16: remove subordinate 10.1.0.72:33333
+discoverer: [time since epoch 1506803225759ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 71
+discoverer: [time since epoch 1506803225759ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 72
+discoverer: [time since epoch 1506803225759ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 73
+discoverer: [time since epoch 1506803225760ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 74
+discoverer: [time since epoch 1506803225760ms] 10.1.0.1/16: remove subordinate 10.1.0.64:33333
+discoverer: [time since epoch 1506803225760ms] 10.1.0.1/16: remove subordinate 10.1.0.73:33333
+discoverer: [time since epoch 1506803225761ms] 10.1.0.1/16: remove subordinate 10.1.0.74:33333
+discoverer: [time since epoch 1506803225761ms] 10.1.0.1/16: remove subordinate 10.1.0.75:33333
+discoverer: [time since epoch 1506803226078ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 75
+discoverer: [time since epoch 1506803226078ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 76
+discoverer: [time since epoch 1506803226078ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 77
+discoverer: [time since epoch 1506803226079ms] 10.1.0.1/16: remove subordinate 10.1.0.76:33333
+discoverer: [time since epoch 1506803226079ms] 10.1.0.1/16: remove subordinate 10.1.0.77:33333
+discoverer: [time since epoch 1506803226079ms] 10.1.0.1/16: remove subordinate 10.1.0.78:33333
+discoverer: [time since epoch 1506803226317ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 78
+discoverer: [time since epoch 1506803226317ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 79
+discoverer: [time since epoch 1506803226317ms] 10.1.0.1/16: remove subordinate 10.1.0.79:33333
+discoverer: [time since epoch 1506803226317ms] 10.1.0.1/16: remove subordinate 10.1.0.80:33333
+discoverer: [time since epoch 1506803226481ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 80
+discoverer: [time since epoch 1506803226481ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 81
+discoverer: [time since epoch 1506803226481ms] 10.1.0.1/16: remove subordinate 10.1.0.81:33333
+discoverer: [time since epoch 1506803226481ms] 10.1.0.1/16: remove subordinate 10.1.0.82:33333
+discoverer: [time since epoch 1506803226643ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 82
+discoverer: [time since epoch 1506803226643ms] 10.1.0.1/16: remove subordinate 10.1.0.83:33333
+discoverer: [time since epoch 1506803226731ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 83
+discoverer: [time since epoch 1506803226732ms] 10.1.0.1/16: remove subordinate 10.1.0.84:33333
+discoverer: [time since epoch 1506803226820ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 84
+discoverer: [time since epoch 1506803226821ms] 10.1.0.1/16: remove subordinate 10.1.0.85:33333
+discoverer: [time since epoch 1506803226910ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 85
+discoverer: [time since epoch 1506803226962ms] 10.1.0.1/16: remove subordinate 10.1.0.86:33333
+discoverer: [time since epoch 1506803227088ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 86
+discoverer: [time since epoch 1506803227098ms] 10.1.0.1/16: remove subordinate 10.1.0.87:33333
+discoverer: [time since epoch 1506803227185ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 87
+discoverer: [time since epoch 1506803227185ms] 10.1.0.1/16: remove subordinate 10.1.0.88:33333
+discoverer: [time since epoch 1506803227313ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 88
+discoverer: [time since epoch 1506803227313ms] 10.1.0.1/16: remove subordinate 10.1.0.89:33333
+discoverer: [time since epoch 1506803227399ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 89
+discoverer: [time since epoch 1506803227400ms] 10.1.0.1/16: remove subordinate 10.1.0.90:33333
+discoverer: [time since epoch 1506803227531ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 90
+discoverer: [time since epoch 1506803227531ms] 10.1.0.1/16: remove subordinate 10.1.0.91:33333
+discoverer: [time since epoch 1506803227645ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 91
+discoverer: [time since epoch 1506803227645ms] 10.1.0.1/16: remove subordinate 10.1.0.92:33333
+discoverer: [time since epoch 1506803227781ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 92
+discoverer: [time since epoch 1506803227781ms] 10.1.0.1/16: remove subordinate 10.1.0.93:33333
+discoverer: [time since epoch 1506803227877ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 93
+discoverer: [time since epoch 1506803227897ms] 10.1.0.1/16: remove subordinate 10.1.0.94:33333
+discoverer: [time since epoch 1506803228012ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 94
+discoverer: [time since epoch 1506803228031ms] 10.1.0.1/16: remove subordinate 10.1.0.95:33333
+discoverer: [time since epoch 1506803228116ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 95
+discoverer: [time since epoch 1506803228116ms] 10.1.0.1/16: remove subordinate 10.1.0.96:33333
+discoverer: [time since epoch 1506803228201ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 96
+discoverer: [time since epoch 1506803228259ms] 10.1.0.1/16: remove subordinate 10.1.0.97:33333
+discoverer: [time since epoch 1506803228322ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 97
+discoverer: [time since epoch 1506803228386ms] 10.1.0.1/16: remove subordinate 10.1.0.98:33333
+discoverer: [time since epoch 1506803228452ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 98
+discoverer: [time since epoch 1506803228489ms] 10.1.0.1/16: remove subordinate 10.1.0.99:33333
+discoverer: [time since epoch 1506803228560ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 99
+discoverer: [time since epoch 1506803228613ms] 10.1.0.1/16: remove subordinate 10.1.0.100:33333
+discoverer: [time since epoch 1506803228703ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 100
+discoverer: [time since epoch 1506803228716ms] 10.1.0.1/16: remove subordinate 10.1.0.101:33333
+discoverer: [time since epoch 1506803228855ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 101
+discoverer: [time since epoch 1506803228868ms] 10.1.0.1/16: remove subordinate 10.1.0.102:33333
+discoverer: [time since epoch 1506803228951ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 102
+discoverer: [time since epoch 1506803228951ms] 10.1.0.1/16: remove subordinate 10.1.0.103:33333
+discoverer: [time since epoch 1506803229042ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 103
+discoverer: [time since epoch 1506803229050ms] 10.1.0.1/16: remove subordinate 10.1.0.104:33333
+discoverer: [time since epoch 1506803229174ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 104
+discoverer: [time since epoch 1506803229174ms] 10.1.0.1/16: remove subordinate 10.1.0.105:33333
+discoverer: [time since epoch 1506803229257ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 105
+discoverer: [time since epoch 1506803229312ms] 10.1.0.1/16: remove subordinate 10.1.0.106:33333
+discoverer: [time since epoch 1506803229392ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 106
+discoverer: [time since epoch 1506803229392ms] 10.1.0.1/16: remove subordinate 10.1.0.107:33333
+discoverer: [time since epoch 1506803229513ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 107
+discoverer: [time since epoch 1506803229513ms] 10.1.0.1/16: remove subordinate 10.1.0.108:33333
+discoverer: [time since epoch 1506803229634ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 108
+discoverer: [time since epoch 1506803229634ms] 10.1.0.1/16: remove subordinate 10.1.0.109:33333
+discoverer: [time since epoch 1506803229753ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 109
+discoverer: [time since epoch 1506803229753ms] 10.1.0.1/16: remove subordinate 10.1.0.110:33333
+discoverer: [time since epoch 1506803229878ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 110
+discoverer: [time since epoch 1506803229898ms] 10.1.0.1/16: remove subordinate 10.1.0.111:33333
+discoverer: [time since epoch 1506803229978ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 111
+discoverer: [time since epoch 1506803229979ms] 10.1.0.1/16: remove subordinate 10.1.0.112:33333
+discoverer: [time since epoch 1506803230104ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 112
+discoverer: [time since epoch 1506803230104ms] 10.1.0.1/16: remove subordinate 10.1.0.113:33333
+discoverer: [time since epoch 1506803230190ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 113
+discoverer: [time since epoch 1506803230254ms] 10.1.0.1/16: remove subordinate 10.1.0.114:33333
+discoverer: [time since epoch 1506803230305ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 114
+discoverer: [time since epoch 1506803230309ms] 10.1.0.1/16: remove subordinate 10.1.0.115:33333
+discoverer: [time since epoch 1506803230426ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 115
+discoverer: [time since epoch 1506803230426ms] 10.1.0.1/16: remove subordinate 10.1.0.116:33333
+discoverer: [time since epoch 1506803230595ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 116
+discoverer: [time since epoch 1506803230602ms] 10.1.0.1/16: remove subordinate 10.1.0.117:33333
+discoverer: [time since epoch 1506803230714ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 117
+discoverer: [time since epoch 1506803230714ms] 10.1.0.1/16: remove subordinate 10.1.0.118:33333
+discoverer: [time since epoch 1506803230825ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 118
+discoverer: [time since epoch 1506803230825ms] 10.1.0.1/16: remove subordinate 10.1.0.119:33333
+discoverer: [time since epoch 1506803230915ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 119
+discoverer: [time since epoch 1506803230977ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 120
+discoverer: [time since epoch 1506803230977ms] 10.1.0.1/16: remove subordinate 10.1.0.120:33333
+discoverer: [time since epoch 1506803230977ms] 10.1.0.1/16: remove subordinate 10.1.0.129:33333
+discoverer: [time since epoch 1506803231087ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 121
+discoverer: [time since epoch 1506803231087ms] 10.1.0.1/16: remove subordinate 10.1.0.121:33333
+discoverer: [time since epoch 1506803231165ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 122
+discoverer: [time since epoch 1506803231166ms] 10.1.0.1/16: remove subordinate 10.1.0.130:33333
+discoverer: [time since epoch 1506803231166ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 123
+discoverer: [time since epoch 1506803231284ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 124
+discoverer: [time since epoch 1506803231297ms] 10.1.0.1/16: remove subordinate 10.1.0.122:33333
+discoverer: [time since epoch 1506803231297ms] 10.1.0.1/16: remove subordinate 10.1.0.131:33333
+discoverer: [time since epoch 1506803231298ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 125
+discoverer: [time since epoch 1506803231442ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 126
+discoverer: [time since epoch 1506803231443ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 127
+discoverer: [time since epoch 1506803231443ms] 10.1.0.1/16: remove subordinate 10.1.0.132:33333
+discoverer: [time since epoch 1506803231443ms] 10.1.0.1/16: remove subordinate 10.1.0.123:33333
+discoverer: [time since epoch 1506803231443ms] 10.1.0.1/16: remove subordinate 10.1.0.133:33333
+discoverer: [time since epoch 1506803231444ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 128
+discoverer: [time since epoch 1506803231647ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 129
+discoverer: [time since epoch 1506803231648ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 130
+discoverer: [time since epoch 1506803231648ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 131
+discoverer: [time since epoch 1506803231648ms] 10.1.0.1/16: remove subordinate 10.1.0.124:33333
+discoverer: [time since epoch 1506803231648ms] 10.1.0.1/16: remove subordinate 10.1.0.134:33333
+discoverer: [time since epoch 1506803231649ms] 10.1.0.1/16: remove subordinate 10.1.0.125:33333
+discoverer: [time since epoch 1506803231649ms] 10.1.0.1/16: remove subordinate 10.1.0.135:33333
+discoverer: [time since epoch 1506803231649ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 132
+discoverer: [time since epoch 1506803231911ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 133
+discoverer: [time since epoch 1506803231911ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 134
+discoverer: [time since epoch 1506803231912ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 135
+discoverer: [time since epoch 1506803231912ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 136
+discoverer: [time since epoch 1506803231912ms] 10.1.0.1/16: remove subordinate 10.1.0.126:33333
+discoverer: [time since epoch 1506803231912ms] 10.1.0.1/16: remove subordinate 10.1.0.136:33333
+discoverer: [time since epoch 1506803231913ms] 10.1.0.1/16: remove subordinate 10.1.0.127:33333
+discoverer: [time since epoch 1506803231913ms] 10.1.0.1/16: remove subordinate 10.1.0.137:33333
+discoverer: [time since epoch 1506803232169ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 137
+discoverer: [time since epoch 1506803232169ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 138
+discoverer: [time since epoch 1506803232170ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 139
+discoverer: [time since epoch 1506803232170ms] 10.1.0.1/16: remove subordinate 10.1.0.128:33333
+discoverer: [time since epoch 1506803232170ms] 10.1.0.1/16: remove subordinate 10.1.0.138:33333
+discoverer: [time since epoch 1506803232170ms] 10.1.0.1/16: remove subordinate 10.1.0.139:33333
+discoverer: [time since epoch 1506803232171ms] 10.1.0.1/16: remove subordinate 10.1.0.140:33333
+discoverer: [time since epoch 1506803232394ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 140
+discoverer: [time since epoch 1506803232394ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 141
+discoverer: [time since epoch 1506803232395ms] 10.1.0.1/16: remove subordinate 10.1.0.141:33333
+discoverer: [time since epoch 1506803232395ms] 10.1.0.1/16: remove subordinate 10.1.0.142:33333
+discoverer: [time since epoch 1506803232528ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 142
+discoverer: [time since epoch 1506803232528ms] 10.1.0.1/16: remove subordinate 10.1.0.143:33333
+discoverer: [time since epoch 1506803232645ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 143
+discoverer: [time since epoch 1506803232645ms] 10.1.0.1/16: remove subordinate 10.1.0.144:33333
+discoverer: [time since epoch 1506803232719ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 144
+discoverer: [time since epoch 1506803232719ms] 10.1.0.1/16: remove subordinate 10.1.0.145:33333
+discoverer: [time since epoch 1506803232853ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 145
+discoverer: [time since epoch 1506803232853ms] 10.1.0.1/16: remove subordinate 10.1.0.146:33333
+discoverer: [time since epoch 1506803232938ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 146
+discoverer: [time since epoch 1506803232964ms] 10.1.0.1/16: remove subordinate 10.1.0.147:33333
+discoverer: [time since epoch 1506803233030ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 147
+discoverer: [time since epoch 1506803233070ms] 10.1.0.1/16: remove subordinate 10.1.0.148:33333
+discoverer: [time since epoch 1506803233173ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 148
+discoverer: [time since epoch 1506803233173ms] 10.1.0.1/16: remove subordinate 10.1.0.149:33333
+discoverer: [time since epoch 1506803233284ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 149
+discoverer: [time since epoch 1506803233284ms] 10.1.0.1/16: remove subordinate 10.1.0.150:33333
+discoverer: [time since epoch 1506803233413ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 150
+discoverer: [time since epoch 1506803233466ms] 10.1.0.1/16: remove subordinate 10.1.0.151:33333
+discoverer: [time since epoch 1506803233474ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 151
+discoverer: [time since epoch 1506803233547ms] 10.1.0.1/16: remove subordinate 10.1.0.152:33333
+discoverer: [time since epoch 1506803233606ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 152
+discoverer: [time since epoch 1506803233651ms] 10.1.0.1/16: remove subordinate 10.1.0.153:33333
+discoverer: [time since epoch 1506803233706ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 153
+discoverer: [time since epoch 1506803233755ms] 10.1.0.1/16: remove subordinate 10.1.0.154:33333
+discoverer: [time since epoch 1506803233866ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 154
+discoverer: [time since epoch 1506803233867ms] 10.1.0.1/16: remove subordinate 10.1.0.155:33333
+discoverer: [time since epoch 1506803233938ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 155
+discoverer: [time since epoch 1506803233938ms] 10.1.0.1/16: remove subordinate 10.1.0.156:33333
+discoverer: [time since epoch 1506803234014ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 156
+discoverer: [time since epoch 1506803234014ms] 10.1.0.1/16: remove subordinate 10.1.0.157:33333
+discoverer: [time since epoch 1506803234174ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 157
+discoverer: [time since epoch 1506803234174ms] 10.1.0.1/16: remove subordinate 10.1.0.158:33333
+discoverer: [time since epoch 1506803234291ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 158
+discoverer: [time since epoch 1506803234291ms] 10.1.0.1/16: remove subordinate 10.1.0.159:33333
+discoverer: [time since epoch 1506803234364ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 159
+discoverer: [time since epoch 1506803234364ms] 10.1.0.1/16: remove subordinate 10.1.0.160:33333
+discoverer: [time since epoch 1506803234455ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 160
+discoverer: [time since epoch 1506803234498ms] 10.1.0.1/16: remove subordinate 10.1.0.161:33333
+discoverer: [time since epoch 1506803234584ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 161
+discoverer: [time since epoch 1506803234584ms] 10.1.0.1/16: remove subordinate 10.1.0.162:33333
+discoverer: [time since epoch 1506803234712ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 162
+discoverer: [time since epoch 1506803234723ms] 10.1.0.1/16: remove subordinate 10.1.0.163:33333
+discoverer: [time since epoch 1506803234795ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 163
+discoverer: [time since epoch 1506803234848ms] 10.1.0.1/16: remove subordinate 10.1.0.164:33333
+discoverer: [time since epoch 1506803234915ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 164
+discoverer: [time since epoch 1506803234961ms] 10.1.0.1/16: remove subordinate 10.1.0.165:33333
+discoverer: [time since epoch 1506803235003ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 165
+discoverer: [time since epoch 1506803235045ms] 10.1.0.1/16: remove subordinate 10.1.0.166:33333
+discoverer: [time since epoch 1506803235168ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 166
+discoverer: [time since epoch 1506803235181ms] 10.1.0.1/16: remove subordinate 10.1.0.167:33333
+discoverer: [time since epoch 1506803235252ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 167
+discoverer: [time since epoch 1506803235252ms] 10.1.0.1/16: remove subordinate 10.1.0.168:33333
+discoverer: [time since epoch 1506803235336ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 168
+discoverer: [time since epoch 1506803235378ms] 10.1.0.1/16: remove subordinate 10.1.0.169:33333
+discoverer: [time since epoch 1506803235493ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 169
+discoverer: [time since epoch 1506803235493ms] 10.1.0.1/16: remove subordinate 10.1.0.170:33333
+discoverer: [time since epoch 1506803235570ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 170
+discoverer: [time since epoch 1506803235624ms] 10.1.0.1/16: remove subordinate 10.1.0.171:33333
+discoverer: [time since epoch 1506803235678ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 171
+discoverer: [time since epoch 1506803235732ms] 10.1.0.1/16: remove subordinate 10.1.0.172:33333
+discoverer: [time since epoch 1506803235777ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 172
+discoverer: [time since epoch 1506803235832ms] 10.1.0.1/16: remove subordinate 10.1.0.173:33333
+discoverer: [time since epoch 1506803235933ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 173
+discoverer: [time since epoch 1506803235952ms] 10.1.0.1/16: remove subordinate 10.1.0.174:33333
+discoverer: [time since epoch 1506803236033ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 174
+discoverer: [time since epoch 1506803236082ms] 10.1.0.1/16: remove subordinate 10.1.0.175:33333
+discoverer: [time since epoch 1506803236139ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 175
+discoverer: [time since epoch 1506803236193ms] 10.1.0.1/16: remove subordinate 10.1.0.176:33333
+discoverer: [time since epoch 1506803236307ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 176
+discoverer: [time since epoch 1506803236320ms] 10.1.0.1/16: remove subordinate 10.1.0.177:33333
+discoverer: [time since epoch 1506803236385ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 177
+discoverer: [time since epoch 1506803236385ms] 10.1.0.1/16: remove subordinate 10.1.0.178:33333
+discoverer: [time since epoch 1506803236465ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 178
+discoverer: [time since epoch 1506803236471ms] 10.1.0.1/16: remove subordinate 10.1.0.179:33333
+discoverer: [time since epoch 1506803236603ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 179
+discoverer: [time since epoch 1506803236603ms] 10.1.0.1/16: remove subordinate 10.1.0.180:33333
+discoverer: [time since epoch 1506803236727ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 180
+discoverer: [time since epoch 1506803236738ms] 10.1.0.1/16: remove subordinate 10.1.0.181:33333
+discoverer: [time since epoch 1506803236854ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 181
+discoverer: [time since epoch 1506803236862ms] 10.1.0.1/16: remove subordinate 10.1.0.182:33333
+discoverer: [time since epoch 1506803236975ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 182
+discoverer: [time since epoch 1506803236975ms] 10.1.0.1/16: remove subordinate 10.1.0.183:33333
+discoverer: [time since epoch 1506803237040ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 183
+discoverer: [time since epoch 1506803237112ms] 10.1.0.1/16: remove subordinate 10.1.0.184:33333
+discoverer: [time since epoch 1506803237240ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 184
+discoverer: [time since epoch 1506803237240ms] 10.1.0.1/16: remove subordinate 10.1.0.185:33333
+discoverer: [time since epoch 1506803237356ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 185
+discoverer: [time since epoch 1506803237401ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 186
+discoverer: [time since epoch 1506803237413ms] 10.1.0.1/16: remove subordinate 10.1.0.186:33333
+discoverer: [time since epoch 1506803237413ms] 10.1.0.1/16: remove subordinate 10.1.0.193:33333
+discoverer: [time since epoch 1506803237507ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 187
+discoverer: [time since epoch 1506803237513ms] 10.1.0.1/16: remove subordinate 10.1.0.187:33333
+discoverer: [time since epoch 1506803237513ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 188
+discoverer: [time since epoch 1506803237601ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 189
+discoverer: [time since epoch 1506803237601ms] 10.1.0.1/16: remove subordinate 10.1.0.194:33333
+discoverer: [time since epoch 1506803237662ms] 10.1.0.1/16: remove subordinate 10.1.0.188:33333
+discoverer: [time since epoch 1506803237703ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 190
+discoverer: [time since epoch 1506803237750ms] 10.1.0.1/16: remove subordinate 10.1.0.195:33333
+discoverer: [time since epoch 1506803237876ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 191
+discoverer: [time since epoch 1506803237885ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 192
+discoverer: [time since epoch 1506803237885ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 193
+discoverer: [time since epoch 1506803237970ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 194
+discoverer: [time since epoch 1506803237970ms] 10.1.0.1/16: remove subordinate 10.1.0.189:33333
+discoverer: [time since epoch 1506803237970ms] 10.1.0.1/16: remove subordinate 10.1.0.196:33333
+discoverer: [time since epoch 1506803237970ms] 10.1.0.1/16: remove subordinate 10.1.0.190:33333
+discoverer: [time since epoch 1506803237971ms] 10.1.0.1/16: remove subordinate 10.1.0.197:33333
+discoverer: [time since epoch 1506803238101ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 195
+discoverer: [time since epoch 1506803238101ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 196
+discoverer: [time since epoch 1506803238101ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 197
+discoverer: [time since epoch 1506803238101ms] 10.1.0.1/16: remove subordinate 10.1.0.191:33333
+discoverer: [time since epoch 1506803238102ms] 10.1.0.1/16: remove subordinate 10.1.0.192:33333
+discoverer: [time since epoch 1506803238102ms] 10.1.0.1/16: remove subordinate 10.1.0.198:33333
+discoverer: [time since epoch 1506803238102ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 198
+discoverer: [time since epoch 1506803238275ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 199
+discoverer: [time since epoch 1506803238275ms] 10.1.0.1/16: remove subordinate 10.1.0.199:33333
+discoverer: [time since epoch 1506803238275ms] 10.1.0.1/16: remove subordinate 10.1.0.200:33333
+discoverer: [time since epoch 1506803238503ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 200
+discoverer: [time since epoch 1506803238503ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 201
+discoverer: [time since epoch 1506803238503ms] 10.1.0.1/16: remove subordinate 10.1.0.201:33333
+discoverer: [time since epoch 1506803238504ms] 10.1.0.1/16: remove subordinate 10.1.0.202:33333
+discoverer: [time since epoch 1506803238606ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 202
+discoverer: [time since epoch 1506803238607ms] 10.1.0.1/16: remove subordinate 10.1.0.203:33333
+discoverer: [time since epoch 1506803238747ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 203
+discoverer: [time since epoch 1506803238796ms] 10.1.0.1/16: remove subordinate 10.1.0.204:33333
+discoverer: [time since epoch 1506803238839ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 204
+discoverer: [time since epoch 1506803238852ms] 10.1.0.1/16: remove subordinate 10.1.0.205:33333
+discoverer: [time since epoch 1506803238922ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 205
+discoverer: [time since epoch 1506803238962ms] 10.1.0.1/16: remove subordinate 10.1.0.206:33333
+discoverer: [time since epoch 1506803239080ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 206
+discoverer: [time since epoch 1506803239080ms] 10.1.0.1/16: remove subordinate 10.1.0.207:33333
+discoverer: [time since epoch 1506803239198ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 207
+discoverer: [time since epoch 1506803239198ms] 10.1.0.1/16: remove subordinate 10.1.0.208:33333
+discoverer: [time since epoch 1506803239338ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 208
+discoverer: [time since epoch 1506803239338ms] 10.1.0.1/16: remove subordinate 10.1.0.209:33333
+discoverer: [time since epoch 1506803239447ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 209
+discoverer: [time since epoch 1506803239447ms] 10.1.0.1/16: remove subordinate 10.1.0.210:33333
+discoverer: [time since epoch 1506803239525ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 210
+discoverer: [time since epoch 1506803239561ms] 10.1.0.1/16: remove subordinate 10.1.0.211:33333
+discoverer: [time since epoch 1506803239662ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 211
+discoverer: [time since epoch 1506803239662ms] 10.1.0.1/16: remove subordinate 10.1.0.212:33333
+discoverer: [time since epoch 1506803239790ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 212
+discoverer: [time since epoch 1506803239810ms] 10.1.0.1/16: remove subordinate 10.1.0.213:33333
+discoverer: [time since epoch 1506803239942ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 213
+discoverer: [time since epoch 1506803239942ms] 10.1.0.1/16: remove subordinate 10.1.0.214:33333
+discoverer: [time since epoch 1506803239999ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 214
+discoverer: [time since epoch 1506803240047ms] 10.1.0.1/16: remove subordinate 10.1.0.215:33333
+discoverer: [time since epoch 1506803240152ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 215
+discoverer: [time since epoch 1506803240165ms] 10.1.0.1/16: remove subordinate 10.1.0.216:33333
+discoverer: [time since epoch 1506803240285ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 216
+discoverer: [time since epoch 1506803240285ms] 10.1.0.1/16: remove subordinate 10.1.0.217:33333
+discoverer: [time since epoch 1506803240400ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 217
+discoverer: [time since epoch 1506803240413ms] 10.1.0.1/16: remove subordinate 10.1.0.218:33333
+discoverer: [time since epoch 1506803240523ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 218
+discoverer: [time since epoch 1506803240523ms] 10.1.0.1/16: remove subordinate 10.1.0.219:33333
+discoverer: [time since epoch 1506803240634ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 219
+discoverer: [time since epoch 1506803240634ms] 10.1.0.1/16: remove subordinate 10.1.0.220:33333
+discoverer: [time since epoch 1506803240760ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 220
+discoverer: [time since epoch 1506803240773ms] 10.1.0.1/16: remove subordinate 10.1.0.221:33333
+discoverer: [time since epoch 1506803240845ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 221
+discoverer: [time since epoch 1506803240884ms] 10.1.0.1/16: remove subordinate 10.1.0.222:33333
+discoverer: [time since epoch 1506803240981ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 222
+discoverer: [time since epoch 1506803240981ms] 10.1.0.1/16: remove subordinate 10.1.0.223:33333
+discoverer: [time since epoch 1506803241125ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 223
+discoverer: [time since epoch 1506803241138ms] 10.1.0.1/16: remove subordinate 10.1.0.224:33333
+discoverer: [time since epoch 1506803241257ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 224
+discoverer: [time since epoch 1506803241257ms] 10.1.0.1/16: remove subordinate 10.1.0.225:33333
+discoverer: [time since epoch 1506803241368ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 225
+discoverer: [time since epoch 1506803241368ms] 10.1.0.1/16: remove subordinate 10.1.0.226:33333
+discoverer: [time since epoch 1506803241439ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 226
+discoverer: [time since epoch 1506803241483ms] 10.1.0.1/16: remove subordinate 10.1.0.227:33333
+discoverer: [time since epoch 1506803241544ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 227
+discoverer: [time since epoch 1506803241593ms] 10.1.0.1/16: remove subordinate 10.1.0.228:33333
+discoverer: [time since epoch 1506803241696ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 228
+discoverer: [time since epoch 1506803241696ms] 10.1.0.1/16: remove subordinate 10.1.0.229:33333
+discoverer: [time since epoch 1506803241817ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 229
+discoverer: [time since epoch 1506803241817ms] 10.1.0.1/16: remove subordinate 10.1.0.230:33333
+discoverer: [time since epoch 1506803241956ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 230
+discoverer: [time since epoch 1506803241956ms] 10.1.0.1/16: remove subordinate 10.1.0.231:33333
+discoverer: [time since epoch 1506803242077ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 231
+discoverer: [time since epoch 1506803242077ms] 10.1.0.1/16: remove subordinate 10.1.0.232:33333
+discoverer: [time since epoch 1506803242213ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 232
+discoverer: [time since epoch 1506803242257ms] 10.1.0.1/16: remove subordinate 10.1.0.233:33333
+discoverer: [time since epoch 1506803242310ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 233
+discoverer: [time since epoch 1506803242310ms] 10.1.0.1/16: remove subordinate 10.1.0.234:33333
+discoverer: [time since epoch 1506803242461ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 234
+discoverer: [time since epoch 1506803242482ms] 10.1.0.1/16: remove subordinate 10.1.0.235:33333
+discoverer: [time since epoch 1506803242532ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 235
+discoverer: [time since epoch 1506803242533ms] 10.1.0.1/16: remove subordinate 10.1.0.236:33333
+discoverer: [time since epoch 1506803242662ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 236
+discoverer: [time since epoch 1506803242662ms] 10.1.0.1/16: remove subordinate 10.1.0.237:33333
+discoverer: [time since epoch 1506803242778ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 237
+discoverer: [time since epoch 1506803242778ms] 10.1.0.1/16: remove subordinate 10.1.0.238:33333
+discoverer: [time since epoch 1506803242896ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 238
+discoverer: [time since epoch 1506803242896ms] 10.1.0.1/16: remove subordinate 10.1.0.239:33333
+discoverer: [time since epoch 1506803243015ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 239
+discoverer: [time since epoch 1506803243015ms] 10.1.0.1/16: remove subordinate 10.1.0.240:33333
+discoverer: [time since epoch 1506803243138ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 240
+discoverer: [time since epoch 1506803243151ms] 10.1.0.1/16: remove subordinate 10.1.0.241:33333
+discoverer: [time since epoch 1506803243283ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 241
+discoverer: [time since epoch 1506803243314ms] 10.1.0.1/16: remove subordinate 10.1.0.242:33333
+discoverer: [time since epoch 1506803243345ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 242
+discoverer: [time since epoch 1506803243375ms] 10.1.0.1/16: remove subordinate 10.1.0.243:33333
+discoverer: [time since epoch 1506803243519ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 243
+discoverer: [time since epoch 1506803243532ms] 10.1.0.1/16: remove subordinate 10.1.0.244:33333
+discoverer: [time since epoch 1506803243623ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 244
+discoverer: [time since epoch 1506803243657ms] 10.1.0.1/16: remove subordinate 10.1.0.245:33333
+discoverer: [time since epoch 1506803243769ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 245
+discoverer: [time since epoch 1506803243769ms] 10.1.0.1/16: remove subordinate 10.1.0.246:33333
+discoverer: [time since epoch 1506803243828ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 246
+discoverer: [time since epoch 1506803243868ms] 10.1.0.1/16: remove subordinate 10.1.1.2:33333
+discoverer: [time since epoch 1506803243917ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 247
+discoverer: [time since epoch 1506803243949ms] 10.1.0.1/16: remove subordinate 10.1.0.247:33333
+discoverer: [time since epoch 1506803244056ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 248
+discoverer: [time since epoch 1506803244108ms] 10.1.0.1/16: remove subordinate 10.1.1.3:33333
+discoverer: [time since epoch 1506803244166ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 249
+discoverer: [time since epoch 1506803244167ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 250
+discoverer: [time since epoch 1506803244200ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 251
+discoverer: [time since epoch 1506803244200ms] 10.1.0.1/16: remove subordinate 10.1.0.248:33333
+discoverer: [time since epoch 1506803244200ms] 10.1.0.1/16: remove subordinate 10.1.0.249:33333
+discoverer: [time since epoch 1506803244279ms] 10.1.0.1/16: remove subordinate 10.1.1.4:33333
+discoverer: [time since epoch 1506803244279ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 252
+discoverer: [time since epoch 1506803244280ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 253
+discoverer: [time since epoch 1506803244342ms] 10.1.0.1/16: remove subordinate 10.1.1.5:33333
+discoverer: [time since epoch 1506803244342ms] 10.1.0.1/16: remove subordinate 10.1.0.250:33333
+discoverer: [time since epoch 1506803244557ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 254
+discoverer: [time since epoch 1506803244557ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 255
+discoverer: [time since epoch 1506803244557ms] 10.1.0.1/16: remove subordinate 10.1.1.6:33333
+discoverer: [time since epoch 1506803244558ms] 10.1.0.1/16: remove subordinate 10.1.0.251:33333
+discoverer: [time since epoch 1506803244690ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 256
+discoverer: [time since epoch 1506803244690ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 257
+discoverer: [time since epoch 1506803244690ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 258
+discoverer: [time since epoch 1506803244690ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 259
+discoverer: [time since epoch 1506803244770ms] 10.1.0.1/16: remove subordinate 10.1.1.7:33333
+discoverer: [time since epoch 1506803244770ms] 10.1.0.1/16: remove subordinate 10.1.0.252:33333
+discoverer: [time since epoch 1506803244771ms] 10.1.0.1/16: remove subordinate 10.1.1.8:33333
+discoverer: [time since epoch 1506803244771ms] 10.1.0.1/16: remove subordinate 10.1.1.9:33333
+discoverer: [time since epoch 1506803244878ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 260
+discoverer: [time since epoch 1506803244878ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 261
+discoverer: [time since epoch 1506803244878ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 262
+discoverer: [time since epoch 1506803244937ms] 10.1.0.1/16: remove subordinate 10.1.0.253:33333
+discoverer: [time since epoch 1506803244937ms] 10.1.0.1/16: remove subordinate 10.1.0.254:33333
+discoverer: [time since epoch 1506803244937ms] 10.1.0.1/16: remove subordinate 10.1.1.10:33333
+discoverer: [time since epoch 1506803245270ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 263
+discoverer: [time since epoch 1506803245283ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 264
+discoverer: [time since epoch 1506803245283ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 265
+discoverer: [time since epoch 1506803245283ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 266
+discoverer: [time since epoch 1506803245283ms] 10.1.0.1/16: remove subordinate 10.1.1.11:33333
+discoverer: [time since epoch 1506803245283ms] 10.1.0.1/16: remove subordinate 10.1.1.12:33333
+discoverer: [time since epoch 1506803245283ms] 10.1.0.1/16: remove subordinate 10.1.1.1:33333
+discoverer: [time since epoch 1506803245405ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 267
+discoverer: [time since epoch 1506803245412ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 268
+discoverer: [time since epoch 1506803245412ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 269
+discoverer: [time since epoch 1506803245412ms] 10.1.0.1/16: remove subordinate 10.1.1.0:33333
+discoverer: [time since epoch 1506803245412ms] 10.1.0.1/16: remove subordinate 10.1.1.13:33333
+discoverer: [time since epoch 1506803245412ms] 10.1.0.1/16: remove subordinate 10.1.1.14:33333
+discoverer: [time since epoch 1506803245412ms] 10.1.0.1/16: remove subordinate 10.1.1.15:33333
+discoverer: [time since epoch 1506803245413ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 270
+discoverer: [time since epoch 1506803245540ms] 10.1.0.1/16: remove subordinate 10.1.1.16:33333
+discoverer: [time since epoch 1506803245704ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 271
+discoverer: [time since epoch 1506803245733ms] 10.1.0.1/16: remove subordinate 10.1.1.17:33333
+discoverer: [time since epoch 1506803245904ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 272
+discoverer: [time since epoch 1506803245917ms] 10.1.0.1/16: remove subordinate 10.1.1.18:33333
+discoverer: [time since epoch 1506803245977ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 273
+discoverer: [time since epoch 1506803245990ms] 10.1.0.1/16: remove subordinate 10.1.1.19:33333
+discoverer: [time since epoch 1506803246106ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 274
+discoverer: [time since epoch 1506803246133ms] 10.1.0.1/16: remove subordinate 10.1.1.20:33333
+discoverer: [time since epoch 1506803246200ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 275
+discoverer: [time since epoch 1506803246200ms] 10.1.0.1/16: remove subordinate 10.1.1.21:33333
+discoverer: [time since epoch 1506803246394ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 276
+discoverer: [time since epoch 1506803246394ms] 10.1.0.1/16: remove subordinate 10.1.1.22:33333
+discoverer: [time since epoch 1506803246479ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 277
+discoverer: [time since epoch 1506803246479ms] 10.1.0.1/16: remove subordinate 10.1.1.23:33333
+discoverer: [time since epoch 1506803246609ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 278
+discoverer: [time since epoch 1506803246609ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 279
+discoverer: [time since epoch 1506803246609ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 280
+discoverer: [time since epoch 1506803246663ms] 10.1.0.1/16: remove subordinate 10.1.1.24:33333
+discoverer: [time since epoch 1506803246663ms] 10.1.0.1/16: remove subordinate 10.1.1.25:33333
+discoverer: [time since epoch 1506803246663ms] 10.1.0.1/16: remove subordinate 10.1.1.26:33333
+discoverer: [time since epoch 1506803246714ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 281
+discoverer: [time since epoch 1506803246742ms] 10.1.0.1/16: remove subordinate 10.1.1.27:33333
+discoverer: [time since epoch 1506803246969ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 282
+discoverer: [time since epoch 1506803246969ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 283
+discoverer: [time since epoch 1506803246969ms] 10.1.0.1/16: remove subordinate 10.1.1.28:33333
+discoverer: [time since epoch 1506803246969ms] 10.1.0.1/16: remove subordinate 10.1.1.29:33333
+discoverer: [time since epoch 1506803247033ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 284
+discoverer: [time since epoch 1506803247033ms] 10.1.0.1/16: remove subordinate 10.1.1.30:33333
+discoverer: [time since epoch 1506803247165ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 285
+discoverer: [time since epoch 1506803247191ms] 10.1.0.1/16: remove subordinate 10.1.1.31:33333
+discoverer: [time since epoch 1506803247350ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 286
+discoverer: [time since epoch 1506803247363ms] 10.1.0.1/16: remove subordinate 10.1.1.32:33333
+discoverer: [time since epoch 1506803247401ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 287
+discoverer: [time since epoch 1506803247401ms] 10.1.0.1/16: remove subordinate 10.1.1.33:33333
+discoverer: [time since epoch 1506803247448ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 288
+discoverer: [time since epoch 1506803247464ms] 10.1.0.1/16: remove subordinate 10.1.1.34:33333
+discoverer: [time since epoch 1506803247624ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 289
+discoverer: [time since epoch 1506803247624ms] 10.1.0.1/16: remove subordinate 10.1.1.35:33333
+discoverer: [time since epoch 1506803247670ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 290
+discoverer: [time since epoch 1506803247696ms] 10.1.0.1/16: remove subordinate 10.1.1.36:33333
+discoverer: [time since epoch 1506803247809ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 291
+discoverer: [time since epoch 1506803247809ms] 10.1.0.1/16: remove subordinate 10.1.1.37:33333
+discoverer: [time since epoch 1506803247862ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 292
+discoverer: [time since epoch 1506803247900ms] 10.1.0.1/16: remove subordinate 10.1.1.38:33333
+discoverer: [time since epoch 1506803248031ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 293
+discoverer: [time since epoch 1506803248031ms] 10.1.0.1/16: remove subordinate 10.1.1.39:33333
+discoverer: [time since epoch 1506803248149ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 294
+discoverer: [time since epoch 1506803248162ms] 10.1.0.1/16: remove subordinate 10.1.1.40:33333
+discoverer: [time since epoch 1506803248211ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 295
+discoverer: [time since epoch 1506803248234ms] 10.1.0.1/16: remove subordinate 10.1.1.41:33333
+discoverer: [time since epoch 1506803248403ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 296
+discoverer: [time since epoch 1506803248416ms] 10.1.0.1/16: remove subordinate 10.1.1.42:33333
+discoverer: [time since epoch 1506803248453ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 297
+discoverer: [time since epoch 1506803248484ms] 10.1.0.1/16: remove subordinate 10.1.1.43:33333
+discoverer: [time since epoch 1506803248599ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 298
+discoverer: [time since epoch 1506803248612ms] 10.1.0.1/16: remove subordinate 10.1.1.44:33333
+discoverer: [time since epoch 1506803248667ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 299
+discoverer: [time since epoch 1506803248691ms] 10.1.0.1/16: remove subordinate 10.1.1.45:33333
+discoverer: [time since epoch 1506803248812ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 300
+discoverer: [time since epoch 1506803248812ms] 10.1.0.1/16: remove subordinate 10.1.1.46:33333
+discoverer: [time since epoch 1506803248953ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 301
+discoverer: [time since epoch 1506803248953ms] 10.1.0.1/16: remove subordinate 10.1.1.47:33333
+discoverer: [time since epoch 1506803249028ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 302
+discoverer: [time since epoch 1506803249061ms] 10.1.0.1/16: remove subordinate 10.1.1.48:33333
+discoverer: [time since epoch 1506803249173ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 303
+discoverer: [time since epoch 1506803249173ms] 10.1.0.1/16: remove subordinate 10.1.1.49:33333
+discoverer: [time since epoch 1506803249302ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 304
+discoverer: [time since epoch 1506803249302ms] 10.1.0.1/16: remove subordinate 10.1.1.50:33333
+discoverer: [time since epoch 1506803249365ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 305
+discoverer: [time since epoch 1506803249376ms] 10.1.0.1/16: remove subordinate 10.1.1.51:33333
+discoverer: [time since epoch 1506803249524ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 306
+discoverer: [time since epoch 1506803249524ms] 10.1.0.1/16: remove subordinate 10.1.1.52:33333
+discoverer: [time since epoch 1506803249578ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 307
+discoverer: [time since epoch 1506803249607ms] 10.1.0.1/16: remove subordinate 10.1.1.53:33333
+discoverer: [time since epoch 1506803249750ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 308
+discoverer: [time since epoch 1506803249760ms] 10.1.0.1/16: remove subordinate 10.1.1.54:33333
+discoverer: [time since epoch 1506803249824ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 309
+discoverer: [time since epoch 1506803249862ms] 10.1.0.1/16: remove subordinate 10.1.1.55:33333
+discoverer: [time since epoch 1506803249973ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 310
+discoverer: [time since epoch 1506803250014ms] 10.1.0.1/16: remove subordinate 10.1.1.56:33333
+discoverer: [time since epoch 1506803250027ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 311
+discoverer: [time since epoch 1506803250061ms] 10.1.0.1/16: remove subordinate 10.1.1.57:33333
+discoverer: [time since epoch 1506803250215ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 312
+discoverer: [time since epoch 1506803250228ms] 10.1.0.1/16: remove subordinate 10.1.1.58:33333
+discoverer: [time since epoch 1506803250324ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 313
+discoverer: [time since epoch 1506803250324ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 314
+discoverer: [time since epoch 1506803250351ms] 10.1.0.1/16: remove subordinate 10.1.1.66:33333
+discoverer: [time since epoch 1506803250351ms] 10.1.0.1/16: remove subordinate 10.1.1.59:33333
+discoverer: [time since epoch 1506803250742ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 315
+discoverer: [time since epoch 1506803250755ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 316
+discoverer: [time since epoch 1506803250755ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 317
+discoverer: [time since epoch 1506803250755ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 318
+discoverer: [time since epoch 1506803250755ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 319
+discoverer: [time since epoch 1506803250755ms] 10.1.0.1/16: remove subordinate 10.1.1.60:33333
+discoverer: [time since epoch 1506803250755ms] 10.1.0.1/16: remove subordinate 10.1.1.68:33333
+discoverer: [time since epoch 1506803250755ms] 10.1.0.1/16: remove subordinate 10.1.1.61:33333
+discoverer: [time since epoch 1506803250835ms] 10.1.0.1/16: remove subordinate 10.1.1.67:33333
+discoverer: [time since epoch 1506803250835ms] 10.1.0.1/16: remove subordinate 10.1.1.69:33333
+discoverer: [time since epoch 1506803250869ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 320
+discoverer: [time since epoch 1506803250869ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 321
+discoverer: [time since epoch 1506803250878ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 322
+discoverer: [time since epoch 1506803250878ms] 10.1.0.1/16: remove subordinate 10.1.1.63:33333
+discoverer: [time since epoch 1506803250915ms] 10.1.0.1/16: remove subordinate 10.1.1.70:33333
+discoverer: [time since epoch 1506803250915ms] 10.1.0.1/16: remove subordinate 10.1.1.62:33333
+discoverer: [time since epoch 1506803251402ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 323
+discoverer: [time since epoch 1506803251410ms] 10.1.0.1/16: remove subordinate 10.1.1.71:33333
+discoverer: [time since epoch 1506803251496ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 324
+discoverer: [time since epoch 1506803251509ms] 10.1.0.1/16: remove subordinate 10.1.1.72:33333
+discoverer: [time since epoch 1506803251647ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 325
+discoverer: [time since epoch 1506803251682ms] 10.1.0.1/16: remove subordinate 10.1.1.64:33333
+discoverer: [time since epoch 1506803251812ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 326
+discoverer: [time since epoch 1506803251812ms] 10.1.0.1/16: remove subordinate 10.1.1.73:33333
+discoverer: [time since epoch 1506803252201ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 327
+discoverer: [time since epoch 1506803252201ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 328
+discoverer: [time since epoch 1506803252201ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 329
+discoverer: [time since epoch 1506803252201ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 330
+discoverer: [time since epoch 1506803252201ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 331
+discoverer: [time since epoch 1506803252201ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 332
+discoverer: [time since epoch 1506803252202ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 333
+discoverer: [time since epoch 1506803252202ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 334
+discoverer: [time since epoch 1506803252202ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 335
+discoverer: [time since epoch 1506803252280ms] 10.1.0.1/16: remove subordinate 10.1.1.65:33333
+discoverer: [time since epoch 1506803252280ms] 10.1.0.1/16: remove subordinate 10.1.1.74:33333
+discoverer: [time since epoch 1506803252281ms] 10.1.0.1/16: remove subordinate 10.1.1.75:33333
+discoverer: [time since epoch 1506803252281ms] 10.1.0.1/16: remove subordinate 10.1.1.76:33333
+discoverer: [time since epoch 1506803252281ms] 10.1.0.1/16: remove subordinate 10.1.1.77:33333
+discoverer: [time since epoch 1506803252281ms] 10.1.0.1/16: remove subordinate 10.1.1.78:33333
+discoverer: [time since epoch 1506803252281ms] 10.1.0.1/16: remove subordinate 10.1.1.79:33333
+discoverer: [time since epoch 1506803252281ms] 10.1.0.1/16: remove subordinate 10.1.1.80:33333
+discoverer: [time since epoch 1506803252281ms] 10.1.0.1/16: remove subordinate 10.1.1.81:33333
+discoverer: [time since epoch 1506803252387ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 336
+discoverer: [time since epoch 1506803252388ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 337
+discoverer: [time since epoch 1506803252392ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 338
+discoverer: [time since epoch 1506803252422ms] 10.1.0.1/16: remove subordinate 10.1.1.82:33333
+discoverer: [time since epoch 1506803252423ms] 10.1.0.1/16: remove subordinate 10.1.1.83:33333
+discoverer: [time since epoch 1506803252423ms] 10.1.0.1/16: remove subordinate 10.1.1.84:33333
+discoverer: [time since epoch 1506803253111ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 339
+discoverer: [time since epoch 1506803253124ms] 10.1.0.1/16: remove subordinate 10.1.1.85:33333
+discoverer: [time since epoch 1506803253187ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 340
+discoverer: [time since epoch 1506803253193ms] 10.1.0.1/16: remove subordinate 10.1.1.86:33333
+discoverer: [time since epoch 1506803253370ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 341
+discoverer: [time since epoch 1506803253401ms] 10.1.0.1/16: remove subordinate 10.1.1.87:33333
+discoverer: [time since epoch 1506803253752ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 342
+discoverer: [time since epoch 1506803253770ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 343
+discoverer: [time since epoch 1506803253770ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 344
+discoverer: [time since epoch 1506803253770ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 345
+discoverer: [time since epoch 1506803253770ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 346
+discoverer: [time since epoch 1506803253770ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 347
+discoverer: [time since epoch 1506803253770ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 348
+discoverer: [time since epoch 1506803253770ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 349
+discoverer: [time since epoch 1506803253828ms] 10.1.0.1/16: remove subordinate 10.1.1.88:33333
+discoverer: [time since epoch 1506803253845ms] 10.1.0.1/16: remove subordinate 10.1.1.89:33333
+discoverer: [time since epoch 1506803253845ms] 10.1.0.1/16: remove subordinate 10.1.1.90:33333
+discoverer: [time since epoch 1506803253845ms] 10.1.0.1/16: remove subordinate 10.1.1.91:33333
+discoverer: [time since epoch 1506803253845ms] 10.1.0.1/16: remove subordinate 10.1.1.92:33333
+discoverer: [time since epoch 1506803253845ms] 10.1.0.1/16: remove subordinate 10.1.1.93:33333
+discoverer: [time since epoch 1506803253845ms] 10.1.0.1/16: remove subordinate 10.1.1.94:33333
+discoverer: [time since epoch 1506803253845ms] 10.1.0.1/16: remove subordinate 10.1.1.95:33333
+discoverer: [time since epoch 1506803253996ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 350
+discoverer: [time since epoch 1506803253997ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 351
+discoverer: [time since epoch 1506803254000ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 352
+discoverer: [time since epoch 1506803254000ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 353
+discoverer: [time since epoch 1506803254030ms] 10.1.0.1/16: remove subordinate 10.1.1.96:33333
+discoverer: [time since epoch 1506803254030ms] 10.1.0.1/16: remove subordinate 10.1.1.97:33333
+discoverer: [time since epoch 1506803254030ms] 10.1.0.1/16: remove subordinate 10.1.1.98:33333
+discoverer: [time since epoch 1506803254031ms] 10.1.0.1/16: remove subordinate 10.1.1.99:33333
+discoverer: [time since epoch 1506803255001ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 354
+discoverer: [time since epoch 1506803255001ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 355
+discoverer: [time since epoch 1506803255001ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 356
+discoverer: [time since epoch 1506803255001ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 357
+discoverer: [time since epoch 1506803255001ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 358
+discoverer: [time since epoch 1506803255001ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 359
+discoverer: [time since epoch 1506803255002ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 360
+discoverer: [time since epoch 1506803255002ms] 10.1.0.1/16: remove subordinate 10.1.1.100:33333
+discoverer: [time since epoch 1506803255002ms] 10.1.0.1/16: remove subordinate 10.1.1.101:33333
+discoverer: [time since epoch 1506803255002ms] 10.1.0.1/16: remove subordinate 10.1.1.102:33333
+discoverer: [time since epoch 1506803255002ms] 10.1.0.1/16: remove subordinate 10.1.1.103:33333
+discoverer: [time since epoch 1506803255002ms] 10.1.0.1/16: remove subordinate 10.1.1.104:33333
+discoverer: [time since epoch 1506803255002ms] 10.1.0.1/16: remove subordinate 10.1.1.105:33333
+discoverer: [time since epoch 1506803255060ms] 10.1.0.1/16: remove subordinate 10.1.1.106:33333
+discoverer: [time since epoch 1506803255134ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 361
+discoverer: [time since epoch 1506803255134ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 362
+discoverer: [time since epoch 1506803255134ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 363
+discoverer: [time since epoch 1506803255170ms] 10.1.0.1/16: remove subordinate 10.1.1.107:33333
+discoverer: [time since epoch 1506803255170ms] 10.1.0.1/16: remove subordinate 10.1.1.108:33333
+discoverer: [time since epoch 1506803255170ms] 10.1.0.1/16: remove subordinate 10.1.1.109:33333
+discoverer: [time since epoch 1506803255842ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 364
+discoverer: [time since epoch 1506803255850ms] 10.1.0.1/16: remove subordinate 10.1.1.110:33333
+discoverer: [time since epoch 1506803255940ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 365
+discoverer: [time since epoch 1506803255956ms] 10.1.0.1/16: remove subordinate 10.1.1.111:33333
+discoverer: [time since epoch 1506803256123ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 366
+discoverer: [time since epoch 1506803256123ms] 10.1.0.1/16: remove subordinate 10.1.1.112:33333
+discoverer: [time since epoch 1506803256461ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 367
+discoverer: [time since epoch 1506803256461ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 368
+discoverer: [time since epoch 1506803256461ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 369
+discoverer: [time since epoch 1506803256461ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 370
+discoverer: [time since epoch 1506803256461ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 371
+discoverer: [time since epoch 1506803256461ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 372
+discoverer: [time since epoch 1506803256461ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 373
+discoverer: [time since epoch 1506803256504ms] 10.1.0.1/16: remove subordinate 10.1.1.113:33333
+discoverer: [time since epoch 1506803256504ms] 10.1.0.1/16: remove subordinate 10.1.1.114:33333
+discoverer: [time since epoch 1506803256504ms] 10.1.0.1/16: remove subordinate 10.1.1.115:33333
+discoverer: [time since epoch 1506803256504ms] 10.1.0.1/16: remove subordinate 10.1.1.116:33333
+discoverer: [time since epoch 1506803256504ms] 10.1.0.1/16: remove subordinate 10.1.1.117:33333
+discoverer: [time since epoch 1506803256504ms] 10.1.0.1/16: remove subordinate 10.1.1.118:33333
+discoverer: [time since epoch 1506803256504ms] 10.1.0.1/16: remove subordinate 10.1.1.119:33333
+discoverer: [time since epoch 1506803257267ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 374
+discoverer: [time since epoch 1506803257280ms] 10.1.0.1/16: remove subordinate 10.1.1.120:33333
+discoverer: [time since epoch 1506803257365ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 375
+discoverer: [time since epoch 1506803257378ms] 10.1.0.1/16: remove subordinate 10.1.1.121:33333
+discoverer: [time since epoch 1506803257767ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 376
+discoverer: [time since epoch 1506803257767ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 377
+discoverer: [time since epoch 1506803257771ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 378
+discoverer: [time since epoch 1506803257771ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 379
+discoverer: [time since epoch 1506803257771ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 380
+discoverer: [time since epoch 1506803257771ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 381
+discoverer: [time since epoch 1506803257771ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 382
+discoverer: [time since epoch 1506803257771ms] 10.1.0.1/16: set 10.1.0.2:33333 weight to 383
+discoverer: [time since epoch 1506803257791ms] 10.1.0.1/16: remove subordinate 10.1.1.127:33333
+discoverer: [time since epoch 1506803257799ms] 10.1.0.1/16: remove subordinate 10.1.1.129:33333
+discoverer: [time since epoch 1506803257799ms] 10.1.0.1/16: remove subordinate 10.1.1.123:33333
+discoverer: [time since epoch 1506803257799ms] 10.1.0.1/16: remove subordinate 10.1.1.125:33333
+discoverer: [time since epoch 1506803257799ms] 10.1.0.1/16: remove subordinate 10.1.1.126:33333
+discoverer: [time since epoch 1506803257816ms] 10.1.0.1/16: remove subordinate 10.1.1.124:33333
+discoverer: [time since epoch 1506803257829ms] 10.1.0.1/16: remove subordinate 10.1.1.122:33333
+discoverer: [time since epoch 1506803257840ms] 10.1.0.1/16: remove subordinate 10.1.1.128:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278068ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278069ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278070ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278071ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278072ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278073ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278073ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278073ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278074ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278074ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278074ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278074ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278074ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278074ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278074ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278075ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278076ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278077ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278078ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278079ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278080ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278081ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278082ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278083ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278083ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278083ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278094ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278095ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278096ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278097ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278098ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278099ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278099ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278099ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
+discoverer: [time since epoch 1506803278099ms] 10.1.0.1/16: failed to send hierarchy to 10.1.0.2:33333
